@@ -18,6 +18,7 @@ body {
    font-size: 150%;
    display: flex;
    justify-content: center;
+   color: #008000;
 }
 
 
@@ -27,6 +28,7 @@ body {
     justify-content: center;
     padding: 10px;
     text-transform: uppercase;
+    color: maroon;
 }
 
 .nav li a:hover {
