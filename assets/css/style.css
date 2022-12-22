@@ -50,6 +50,7 @@ body {
     height: 200px;
     width: 100%;
     position: relative;
+    overflow: hidden;
 
     /*Animation*/
     animation-name: background-zoom;
@@ -96,6 +97,12 @@ body {
 .about-p {
     text-align: center;
 }
+ .facilities-info h3 {
+    text-decoration: underline;
+}
 
+.facilities-info {
+    text-align: center;
+}
 
 
