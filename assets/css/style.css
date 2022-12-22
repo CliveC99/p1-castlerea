@@ -44,3 +44,44 @@ body {
 }
 
 
+/* image and text */
+.background-image {
+    height: 200px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+
+    /*Animation*/
+    animation-name: background-zoom;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+/* Sets the animation level */
+@keyframes background-zoom {
+    from{
+        transform: scale(0.97);
+    }
+    to{
+        transform: scale(1);
+    }
+}
+
+.image-text h1, h2 {
+    color: white;
+}
+.image-text {
+    font-size: 72%;
+    font-family: montserrat, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+
+    width: 100px;
+    height: 80px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+    background: transparent;
+    left: 230px;
+    top: 225px;
+    position: absolute;
+}
