@@ -105,4 +105,30 @@ body {
     text-align: center;
 }
 
+/* footer */
+
+.social-image {
+    height: 60px;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    background-image: url(/assets/images/pexels-pixabay-235985.jpg); background-repeat: no-repeat;
+    color: red;
+    
+}
+
+.social-icons li {
+    font-size: 200%;
+    padding: 5%;
+    list-style: none;
+}
+
+.fa-facebook, .fa-instagram-square, .fa-twitter, .fa-youtube {
+    color: black;
+  }
+
+
+
 
