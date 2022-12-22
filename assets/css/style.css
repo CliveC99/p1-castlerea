@@ -1,27 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 * {
-    margin:0;
-    padding:0;
-    border:0;
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
 
 body {
     font-family: montserrat, sans-serif;
     color: #000000;
-    
+
 }
 
 /* Logo + Nav */
 #logo {
-   text-transform: uppercase;
-   letter-spacing: 2px;
-   font-size: 150%;
-   display: flex;
-   justify-content: center;
-   color: #008000;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 150%;
+    display: flex;
+    justify-content: center;
+    color: #008000;
 }
 
+.logo-home {
+    text-decoration: none;
+}
 
 .nav li {
     list-style: none;
@@ -57,19 +60,23 @@ body {
     animation-duration: 3s;
     animation-fill-mode: forwards;
 }
+
 /* Sets the animation level */
 @keyframes background-zoom {
-    from{
+    from {
         transform: scale(0.97);
     }
-    to{
+
+    to {
         transform: scale(1);
     }
 }
 
-.image-text h1, .image-text h2 {
+.image-text h1,
+.image-text h2 {
     color: white;
 }
+
 .image-text {
     font-size: 72%;
     font-family: montserrat, sans-serif;
@@ -88,16 +95,18 @@ body {
 }
 
 /*About Castlerea */
-.about-h1, .about-h2 {
-        display: flex;
-        justify-content: center;
-        text-align: center;
+.about-h1,
+.about-h2 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
 }
 
 .about-p {
     text-align: center;
 }
- .facilities-info h3 {
+
+.facilities-info h3 {
     text-decoration: underline;
 }
 
@@ -114,9 +123,7 @@ body {
 .social-icons {
     display: flex;
     justify-content: center;
-    background-image: url(/assets/images/pexels-pixabay-235985.jpg); background-repeat: no-repeat;
-    color: red;
-    
+    background-image: url(/assets/images/pexels-pixabay-235985.jpg);
 }
 
 .social-icons li {
@@ -125,10 +132,9 @@ body {
     list-style: none;
 }
 
-.fa-facebook, .fa-instagram-square, .fa-twitter, .fa-youtube {
+.fa-facebook,
+.fa-instagram-square,
+.fa-twitter,
+.fa-youtube {
     color: black;
-  }
-
-
-
-
+}
