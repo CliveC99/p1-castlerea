@@ -138,3 +138,31 @@ body {
 .fa-youtube {
     color: black;
 }
+
+/* Form */
+#contact-form {
+    background: url(/assets/images/pexels-craig-adderley-1563356.jpg);
+    background-size: cover;
+    height: 1000px;
+    background-position: center;
+
+}
+
+.text-input {
+    border: solid black 1px;
+    border-radius: 1.5px;
+    display: block;
+   align-self: center;
+   background-color: transparent;
+}
+
+.form-text {
+    font-family: montserrat, sans-serif;
+    font-size: 16px;
+    font-weight: 900;
+}
+
+.form-heading {
+    font-family: montserrat, sans-serif;
+   text-align: center;
+}
