@@ -143,7 +143,7 @@ body {
 #contact-form {
     background: url(/assets/images/pexels-craig-adderley-1563356.jpg);
     background-size: cover;
-    height: 1000px;
+    height: 500px;
     background-position: center;
 
 }
@@ -161,7 +161,8 @@ body {
     border-radius: 1.5px;
     display: block;
    align-self: center;
-   background-color: transparent;
+   background-color: grey;
+   margin-left: 30%;
 }
 
 .form-text {
@@ -169,14 +170,20 @@ body {
     font-size: 16px;
     font-weight: 900;
     color: white;
+    margin-left: 38%;
+    
 }
 
-.age {
-    background-color: transparent;
+#age {
+    background-color: grey;
     border: 1px solid black;
+    margin-left: 40%;
+    
+    
 }
 
 .age-range {
     color: white;
     font-weight: 900;
+    margin-left: 38%;
 }
