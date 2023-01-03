@@ -148,6 +148,14 @@ body {
 
 }
 
+.form-heading {
+    font-family: montserrat, sans-serif;
+   text-align: center;
+   font-weight: 900;
+   text-decoration: white;
+   color: white;
+}
+
 .text-input {
     border: solid black 1px;
     border-radius: 1.5px;
@@ -160,9 +168,15 @@ body {
     font-family: montserrat, sans-serif;
     font-size: 16px;
     font-weight: 900;
+    color: white;
 }
 
-.form-heading {
-    font-family: montserrat, sans-serif;
-   text-align: center;
+.age {
+    background-color: transparent;
+    border: 1px solid black;
+}
+
+.age-range {
+    color: white;
+    font-weight: 900;
 }
