@@ -51,10 +51,11 @@ body {
 
 /* image and text */
 .background-image {
+    background-size: cover;
+    background-repeat: no-repeat;
     height: 200px;
-    width: 100%;
-    position: relative;
-    overflow: hidden;
+    background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673640735/demense_sxam72.jpg) no-repeat center center;
+    
 
     /*Animation*/
     animation-name: background-zoom;
@@ -75,7 +76,7 @@ body {
 
 .image-text h1,
 .image-text h2 {
-    color: white;
+    color: black;
 }
 
 .image-text {
@@ -83,16 +84,13 @@ body {
     font-family: montserrat, sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
-
-    width: 100px;
-    height: 80px;
-
-    padding-top: 40px;
-    padding-left: 10px;
-    background: transparent;
-    left: 230px;
-    top: 225px;
+    width: 160px;
+    height: 90px;
+   background-color: #808283;
     position: absolute;
+
+
+
 }
 
 /*About Castlerea */
@@ -190,24 +188,18 @@ body {
 /* Mobile Breakpoint */
 @media only screen and (min-width: 320px) {
     .image-text {
-        padding-top: 40px;
-        padding-left: 10px;
-        background: transparent;
-        left: 25%;
-        top: 45%;
-        position: absolute;
+        left: 50%;
+        top: 32%;
     }
 }
 
 /*Tablet Breakpoint  okay*/
 @media only screen and (min-width: 768px) {
     .image-text {
-        padding-top: 40px;
-        padding-left: 10px;
-        background: transparent;
-        left: 75%;
-        top: 15%;
-        position: absolute;
+        font-size: 0.7em;
+        left: 77%;
+        top: 22%;
+        
     }
 
     #logo {
@@ -237,12 +229,9 @@ body {
 /*Laptop Breakpoint */
 @media only screen and (min-width: 1280px) {
     .image-text {
-        padding-top: 40px;
-        padding-left: 10px;
-        background: transparent;
-        left: 80%;
-        top: 20%;
-        position: absolute;
+        left: 86%;
+        top: 22%;
+        
     }
 
     #logo {
@@ -267,11 +256,8 @@ body {
 /* Desktop Breakpoint okay*/
 @media only screen and (min-width: 1600px) {
     .image-text {
-        padding-top: 40px;
-        padding-left: 10px;
-        background: transparent;
-        left: 85%;
-        top: 15%;
+        left: 88%;
+        top: 17%;
         position: absolute;
     }
 
