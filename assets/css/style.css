@@ -141,15 +141,17 @@ body {
 #contact-form {
     background: url(/assets/images/pexels-craig-adderley-1563356.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
     height: 700px;
 }
 
 .form-heading {
     font-family: montserrat, sans-serif;
-    text-align: center;
     font-weight: 900;
     text-decoration: white;
     color: white;
+    padding-top: 60%;
+    text-align: center;
 }
 
 .text-input {
@@ -192,18 +194,19 @@ body {
         padding-left: 10px;
         background: transparent;
         left: 25%;
-        top: 32%;
+        top: 45%;
         position: absolute;
     }
 }
-/*Tablet Breakpoint */
+
+/*Tablet Breakpoint  okay*/
 @media only screen and (min-width: 768px) {
     .image-text {
         padding-top: 40px;
         padding-left: 10px;
         background: transparent;
         left: 75%;
-        top: 20%;
+        top: 15%;
         position: absolute;
     }
 
@@ -215,6 +218,15 @@ body {
     .nav {
         display: flex;
         justify-content: center;
+    }
+
+    .form-heading {
+        padding-top: 20%;
+    }
+
+    .text-input {
+       margin: auto;
+       align-items: center;
     }
 }
 
@@ -229,24 +241,26 @@ body {
         position: absolute;
     }
 
-        #logo {
-            display: flex;
-            justify-content: center;
-        }
-    
-        .nav {
-            display: flex;
-            justify-content: center;
-        }
+    #logo {
+        display: flex;
+        justify-content: center;
     }
-/* Desktop Breakpoint*/
+
+    .nav {
+        display: flex;
+        justify-content: center;
+    }
+
+}
+
+/* Desktop Breakpoint okay*/
 @media only screen and (min-width: 1600px) {
     .image-text {
         padding-top: 40px;
         padding-left: 10px;
         background: transparent;
         left: 85%;
-        top: 20%;
+        top: 15%;
         position: absolute;
     }
 
