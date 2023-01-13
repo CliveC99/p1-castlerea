@@ -225,8 +225,12 @@ body {
     }
 
     .text-input {
-       margin: auto;
-       align-items: center;
+        margin: auto;
+        align-items: center;
+    }
+
+    .form-text, #age, .age-range {
+        margin-left: 44% !important;
     }
 }
 
@@ -251,6 +255,13 @@ body {
         justify-content: center;
     }
 
+    .form-text, #age, .age-range {
+        margin-left: 46% !important;
+    }
+
+    .social-icons {
+        background-size: cover;
+    }
 }
 
 /* Desktop Breakpoint okay*/
