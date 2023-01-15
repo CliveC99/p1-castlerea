@@ -13,7 +13,7 @@ body {
 
 }
 
-/* Logo + Nav */
+/*************************************************** LOGO + NAV ******************************************************************/
 #logo {
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -49,13 +49,13 @@ body {
 }
 
 
-/* image and text */
+/************************************************ IMAGE AND TEXT *****************************************************************/
 .background-image {
     background-size: cover;
     background-repeat: no-repeat;
     height: 600px;
-    background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673640735/demense_sxam72.jpg) no-repeat center center;
-    
+    background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673640735/Website%20images/demense_sxam72.jpg) no-repeat center center;
+
 
     /*Animation*/
     animation-name: background-zoom;
@@ -86,14 +86,15 @@ body {
     letter-spacing: 3px;
     width: 160px;
     height: 90px;
-   background-color: #808283;
+    background-color: #808283;
     position: absolute;
-
+    top: 85%;
+    left: 70%;
 
 
 }
 
-/*About Castlerea */
+/******************************************** ABOUT CASTLEREA ********************************************************************/
 .about-h1,
 .about-h2 {
     display: flex;
@@ -112,6 +113,30 @@ body {
 
 .facilities-info {
     text-align: center;
+}
+
+.golf-club {
+    content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673798024/Website%20images/castlerea-golf-club_ydhixs.png);
+    max-height: 5%;
+    max-width: 100%;
+}
+
+.clonalis-house {
+    content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673800153/Website%20images/clonalis-house_xzis4q.jpg);
+    height: 5%;
+    width: 100%;
+}
+
+.walking-trails {
+    content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673798777/Website%20images/castlerea-trails_j1unju.jpg);
+    height: 5%;
+    width: 100%;
+}
+
+.swimming-pool {
+    content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673798846/Website%20images/castlerea-swimming-pool3_drs0ri.jpg);
+    height: 5%;
+    width: 100%;
 }
 
 /* footer */
@@ -137,7 +162,7 @@ body {
 
 /* Form */
 #contact-form {
-    background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673639697/castlerea-hero-image_sgkrin.jpg);
+    background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673639697/Website%20images/castlerea-hero-image_sgkrin.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 700px;
@@ -150,7 +175,7 @@ body {
     color: white;
     padding-top: 60%;
     text-align: center;
-   
+
 }
 
 .text-input {
@@ -185,22 +210,30 @@ body {
     margin-left: 38%;
 }
 
+#submit {
+    margin-left: 45%;
+    margin-top: 2%;
+    font-size: 1em;
+    padding: 0% 3% 0% 3%;
+}
 
-/* Mobile Breakpoint */
-@media only screen and (min-width: 320px) {
+
+/***************************************************MOBILE BREAKPOINT ************************************************************/
+@media only screen and (max-width: 320px) {
     .image-text {
-        left: 50%;
-        top: 32%;
+        left: 48%;
+        top: 85%;
     }
 }
 
-/*Tablet Breakpoint  okay*/
+
+/*************************************************** TABLET BREAKPOINT ***********************************************************/
 @media only screen and (min-width: 768px) {
     .image-text {
         font-size: 0.7em;
-        left: 77%;
-        top: 22%;
-        
+        left: 80%;
+        top: 75%;
+
     }
 
     #logo {
@@ -222,12 +255,44 @@ body {
         align-items: center;
     }
 
-    .form-text, #age, .age-range {
+    .form-text,
+    #age,
+    .age-range {
         margin-left: 44% !important;
     }
+
+    .golf-club,
+    .clonalis-house,
+    .walking-trails,
+    .swimming-pool {
+        width: 50%;
+        height: 15%;
+        display: flex;
+        justify-content: right;
+        margin-left: 0.7%;
+    }
+
+    .info-1,
+    .info-2,
+    .info-3,
+    .info-4 {
+        display: flex;
+        justify-content: left;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        font-size: 1.1em;
+    }
+
+    .info-headings {
+        font-size: 1.3em;
+        margin-left: 1%;
+    }
+
+
 }
 
-/*Laptop Breakpoint */
+/************************************************* LAPTOP BREAKPOINT **************************************************************/
 @media only screen and (min-width: 1280px) {
     .image-text {
         left: 86%;
@@ -246,20 +311,33 @@ body {
         justify-content: center;
     }
 
-    .form-text, #age, .age-range {
+    .form-text,
+    #age,
+    .age-range {
         margin-left: 46% !important;
     }
 
     .social-icons {
         background-size: cover;
     }
+
+    #submit {
+        padding: 0% 3% 0% 3%;
+    }
+
+    .info-1,
+    .info-2,
+    .info-3,
+    .info-4 {
+        font-size: 2em;
+    }
 }
 
-/* Desktop Breakpoint okay*/
+/*********************************************** DESKTOP BREAKPOINT ***************************************************************/
 @media only screen and (min-width: 1600px) {
     .image-text {
         left: 88%;
-        top: 17%;
+        top: 57%;
         position: absolute;
     }
 
