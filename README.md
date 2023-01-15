@@ -54,4 +54,13 @@ Using this page you will receive information on things to do in the area, a gall
   - The contact section of the website lets the user input information for a contact response.
   - The form allows the user to input their First name, Surname, Email address, and Age range.
   - The submit button at the bottom allows the user to send off the information.
+
+
+# Added Items
+  ## FavIcon
+  - I used FavIcon to add the logo to the top of the tab.
+  - I used "CREA" as a shortcut for Castlerea.
+
+  ![FavIcon](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673822771/README%20Images/Gallery%20Photos/android-chrome-192x192_j4lo6z.png)
+    
   
