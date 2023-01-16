@@ -86,5 +86,10 @@ Using this page you will receive information on things to do in the area, a gall
 
 
 # WireFrames 
--  
+-![Home Page Mobile View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883228/README%20Images/Gallery%20Photos/index-mobile-view_wcjg0n.png) Home Page Mobile View.
+-![Home Page Laptop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883228/README%20Images/Gallery%20Photos/index-laptop-view_xbuhs9.png) Home Page Laptop View.
+-![Gallary Page Mobile View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883227/README%20Images/Gallery%20Photos/gallary-mobile-view_voytqr.png) Gallary Page Mobile View.
+-![Gallary Page Laptop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883227/README%20Images/Gallery%20Photos/gallary-laptop-view_bbyhqz.png) Gallary Page Laptop View.
+-![Contact Page Mobile View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883228/README%20Images/Gallery%20Photos/contact-mobile-view_opau5z.png) Contact Page Mobile View.
+-![Contact Page Laptop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883228/README%20Images/Gallery%20Photos/contact-laptop-view_gqrdoj.png) Contact Page Laptop View.
   
