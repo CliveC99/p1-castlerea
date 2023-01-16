@@ -100,9 +100,7 @@ body {
 .about-h2 {
     display: flex;
     justify-content: center;
-    text-align: center;
 }
-
 
 .about-p {
     text-align: center;
@@ -140,6 +138,7 @@ body {
     width: 100%;
 }
 
+
 /* footer */
 
 .social-icons {
@@ -170,7 +169,7 @@ body {
     column-gap: 0px;
 }
 
-#pictures > img {
+#pictures>img {
     width: 100%;
 }
 
@@ -367,7 +366,8 @@ body {
     #pictures {
         column-count: 5;
     }
-}
+    
+    }
 
 /*********************************************** DESKTOP BREAKPOINT ***************************************************************/
 @media only screen and (min-width: 1600px) {

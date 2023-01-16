@@ -4,6 +4,7 @@ This page "Castlerea" is a website created as an information page for my local t
 Using this page you will receive information on things to do in the area, a gallery of images, and a contact section. The site has been created to bring more tourists to the area.
 
 # Features
+## Home Page:
 ## Navigation
   - When viewing the page on a mobile device the logo and the 3 pages (Home, Gallary, and Contact) are placed below each other.
   - When viewing the page on a tablet, a laptop, or a desktop the Logo is placed in the center of the top of the page. The 3 pages are placed under the logo in a row.
@@ -31,29 +32,22 @@ Using this page you will receive information on things to do in the area, a gall
 ## Footer
   - The footer has a background image with 4 font awesome - icons.
   - Each icon links directly to the site in a new tab.
+  - The footer is the same across all the pages.
+  ![Footer](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673881004/README%20Images/Gallery%20Photos/footer-readme_iidhao.png) Footer.
 
-# Gallary
+# Gallary Page
+   - I added 20 images, they consist of the facilities in my area, Christmas Lights and Castlerea from up high.
+  - All of the images on the gallary page were from Paschal Fitzmaurice a local councillor in my area. I was given permission to use these images from my website. 
+  - I added 20 images, they consist of the 
+  ![Gallary](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673880345/README%20Images/Gallery%20Photos/gallary-readme_b29sfp.png) Gallary Page.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Contact
-## Header
-  - The background image covers most of the page with the form being placed in the middle of the image.
+# Contact Page
+## Form
+  - The background image covers the page with the nav bar and footer being there too.  The form being placed in the middle of the image.
   - The contact section of the website lets the user input information for a contact response.
   - The form allows the user to input their First name, Surname, Email address, and Age range.
   - The submit button at the bottom allows the user to send off the information.
+![Form](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673880754/README%20Images/Gallery%20Photos/contact-readme_zhvcv6.png) Contact Page.
 
 
 # Added Items
@@ -61,6 +55,36 @@ Using this page you will receive information on things to do in the area, a gall
   - I used FavIcon to add the logo to the top of the tab.
   - I used "CREA" as a shortcut for Castlerea.
 
-  ![FavIcon](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673822771/README%20Images/Gallery%20Photos/android-chrome-192x192_j4lo6z.png)
-    
+  ![Fav Icon](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673822771/README%20Images/Gallery%20Photos/android-chrome-192x192_j4lo6z.png) Fav Icon I used for my website.
+
+  # Cloudinary 
+  - I decided to switch from saving my images in an images folder to using Cloudinary.
+  - I found this would benefit my website performance.
+  - I created an account, I uploaded my images and I copied the URL for each image and inserted it into my code.
+    ![Cloudinary](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673879894/README%20Images/Gallery%20Photos/cloudinary-example_dcrf5f.png) Cloudinary Example.
+
+
+
+
+
+    # 404 Error  Page
+  - Explain 404 page
+
+
+
+  # Credits
+  ## Media
+  - The home page hero-image was taken from [Here.](https://assets-eu-01.kc-usercontent.com/aa24ba70-9a12-01ae-259b-7ef588a0b2ef/a80108c7-1a1a-4fe2-8f8b-d4f0e9699535/header-castlerea-county-roscommon.jpg?w=2304&q=66&h=672&fit=crop&fm=jpg)
+   - The footer image was taken from [Here.](https://www.pexels.com/photo/from-above-shot-of-dried-leaves-and-yellow-fruit-3018825/)
+  - The Castlerea Golf Club image was taken from [Here.](https://upload.wikimedia.org/wikipedia/commons/5/51/Castlerea_-_Clonalis_House_-_20190823040950.jpg) 
+  - The Form background image was taken from [Here.](https://www.discoversuckvalleyway.ie/admin/uploads/walks/resized_castlerea-trails-suck-valley-way.jpg)
+
+  ## Other
+  - This project wouldn't be possible without the help from my mentor.
+  - Councillor Paschal Fitzmaurice provied me with images for the Gallary page, The Swimming Pool and the Walking Trail on the home page.
+
+
+
+# WireFrames 
+-  
   
