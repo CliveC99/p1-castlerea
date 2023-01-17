@@ -23,8 +23,14 @@ body {
     color: #008000;
 }
 
+#logo a:hover {
+    box-shadow: inset 200px 0 0 0 #cec791;
+    color: maroon;
+}
+
 .logo-home {
     text-decoration: none;
+    color: green;
 }
 
 .nav li {
@@ -38,10 +44,13 @@ body {
 
 .nav li a:hover {
     border-bottom: solid 1px black;
+    box-shadow: inset 200px 0 0 0 #cec791;
+    color: maroon;
 }
 
 .nav a {
     text-decoration: none;
+    color: green;
 }
 
 .active {
@@ -96,10 +105,21 @@ body {
 }
 
 /******************************************** ABOUT CASTLEREA ********************************************************************/
-.about-h1,
-.about-h2 {
+.about-h1 {
     display: flex;
     justify-content: center;
+    margin-top: 1%
+}
+
+.about-h2 {
+    text-align: center;
+    margin-top: 1%;
+}
+
+.info-1, .info-2, .info-3, .info-4 {
+    margin-left: 0.8%;
+    text-align: center;
+    margin-right: 0.8%;
 }
 
 .about-p {
@@ -108,6 +128,7 @@ body {
 
 .facilities-info h3 {
     text-decoration: underline;
+    margin-top: 3%;
 }
 
 .facilities-info {
@@ -118,24 +139,28 @@ body {
     content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673798024/Website%20images/castlerea-golf-club_ydhixs.png);
     max-height: 5%;
     max-width: 100%;
+    margin-top: 5%;
 }
 
 .clonalis-house {
     content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673800153/Website%20images/clonalis-house_xzis4q.jpg);
     height: 5%;
     width: 100%;
+    margin-top: 5%;
 }
 
 .walking-trails {
     content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673798777/Website%20images/castlerea-trails_j1unju.jpg);
     height: 5%;
     width: 100%;
+    margin-top: 5%;
 }
 
 .swimming-pool {
     content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673798846/Website%20images/castlerea-swimming-pool3_drs0ri.jpg);
     height: 5%;
     width: 100%;
+    margin-top: 5%;
 }
 
 
@@ -145,6 +170,7 @@ body {
     display: flex;
     justify-content: center;
     background-image: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673821483/README%20Images/Gallery%20Photos/pexels-vlad-che%C8%9Ban-3018825_ero6s2.jpg);
+    opacity: 0.7;
 }
 
 .social-icons li {
@@ -260,6 +286,7 @@ body {
         justify-content: center;
     }
 
+
     .nav {
         display: flex;
         justify-content: center;
@@ -280,6 +307,12 @@ body {
         margin-left: 40% !important;
     }
 
+
+    .info-headings {
+        margin-right: 50%;
+        font-size: 1.5em;
+    }
+
     .golf-club,
     .clonalis-house,
     .walking-trails,
@@ -297,16 +330,10 @@ body {
     .info-4 {
         display: flex;
         justify-content: left;
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        font-size: 1.1em;
-    }
-
-    .info-headings {
-        font-size: 1.3em;
+        font-size: 1.6em;
         margin-left: 1%;
     }
+
 
     .box-form {
         left: 25%;
@@ -351,11 +378,18 @@ body {
         padding: 0% 3% 0% 3%;
     }
 
+    .info-headings {
+        margin-right: 50%;
+        font-size: 1.9em;
+    }
+
     .info-1,
     .info-2,
     .info-3,
     .info-4 {
-        font-size: 2em;
+        font-size: 2.5em;
+        align-items: center;
+        margin-left: 1%;
     }
 
     .box-form {
@@ -366,8 +400,8 @@ body {
     #pictures {
         column-count: 5;
     }
-    
-    }
+
+}
 
 /*********************************************** DESKTOP BREAKPOINT ***************************************************************/
 @media only screen and (min-width: 1600px) {
