@@ -30,7 +30,7 @@ body {
 
 .logo-home {
     text-decoration: none;
-    color: green;
+    color: #005609;
 }
 
 .nav li {
@@ -50,7 +50,8 @@ body {
 
 .nav a {
     text-decoration: none;
-    color: green;
+    color:
+        #005609;
 }
 
 .active {
@@ -99,7 +100,7 @@ body {
     position: absolute;
     top: 85%;
     left: 70%;
-
+    opacity: 0.8;
 
 
 }
@@ -116,7 +117,10 @@ body {
     margin-top: 1%;
 }
 
-.info-1, .info-2, .info-3, .info-4 {
+.info-1,
+.info-2,
+.info-3,
+.info-4 {
     margin-left: 0.8%;
     text-align: center;
     margin-right: 0.8%;
@@ -126,41 +130,57 @@ body {
     text-align: center;
 }
 
-.facilities-info h3 {
+.golf-club-heading,
+.clonalis-house-heading,
+.walking-trails-heading,
+.swimming-pool-heading {
     text-decoration: underline;
     margin-top: 3%;
-}
-
-.facilities-info {
     text-align: center;
 }
 
+.golf-club-heading,
+.clonalis-house-heading,
+.walking-trails-heading,
+.swimming-pool-heading>.info-2,
+.info-3,
+.info-4 {
+    margin-top: 3%;
+}
+
+.info-1 {
+    margin-top: 3%
+}
+
+
 .golf-club {
     content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673798024/Website%20images/castlerea-golf-club_ydhixs.png);
-    max-height: 5%;
-    max-width: 100%;
+    height: 100%;
+    width: 100%;
     margin-top: 5%;
 }
 
 .clonalis-house {
     content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673800153/Website%20images/clonalis-house_xzis4q.jpg);
-    height: 5%;
+    height: 100%;
     width: 100%;
     margin-top: 5%;
+    margin-bottom: 2%;
 }
 
 .walking-trails {
     content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673798777/Website%20images/castlerea-trails_j1unju.jpg);
-    height: 5%;
+    height: 100%;
     width: 100%;
     margin-top: 5%;
 }
 
 .swimming-pool {
     content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673798846/Website%20images/castlerea-swimming-pool3_drs0ri.jpg);
-    height: 5%;
+    height: 100%;
     width: 100%;
     margin-top: 5%;
+    margin-bottom: 2%;
 }
 
 
@@ -308,20 +328,35 @@ body {
     }
 
 
-    .info-headings {
-        margin-right: 50%;
-        font-size: 1.5em;
+    .info-3,
+    .info-4 {
+        margin-top: 1%
     }
 
+    .info-1,
+    .info-2 {
+        margin-top: 1%;
+    }
+
+
     .golf-club,
-    .clonalis-house,
+    .clonalis-house {
+        width: 50%;
+        height: 15%;
+        display: flex;
+        justify-content: right;
+        margin-top: -2%;
+        margin-left: 0.5%
+    }
+
     .walking-trails,
     .swimming-pool {
         width: 50%;
         height: 15%;
         display: flex;
         justify-content: right;
-        margin-left: 0.7%;
+        margin-top: 4.5%;
+        margin-left: 0.5%
     }
 
     .info-1,
@@ -343,6 +378,28 @@ body {
         column-count: 3;
     }
 
+
+    .blank-text {
+        margin-top: 5%;
+    }
+
+    .golf-club-heading,
+    .clonalis-house-heading,
+    .walking-trails-heading,
+    .swimming-pool-heading {
+        margin-left: -50%;
+        font-size: 2em;
+        margin-top: -0.5%;
+    }
+
+    .info-1, .info-3 {
+        margin-bottom: 3%;
+    }
+
+    .info-4 {
+        margin-bottom: 2%;
+    }
+
 }
 
 /************************************************* LAPTOP BREAKPOINT **************************************************************/
@@ -351,7 +408,6 @@ body {
         left: 86%;
         top: 75%;
     }
-
 
 
     #logo {
@@ -378,10 +434,20 @@ body {
         padding: 0% 3% 0% 3%;
     }
 
+
     .info-headings {
         margin-right: 50%;
         font-size: 1.9em;
     }
+
+    .golf-club,
+    .clonalis-house,
+    .walking-trails,
+    .swimming-pool {
+        margin-top: -2%;
+        margin-left: 0.5%
+    }
+
 
     .info-1,
     .info-2,
@@ -390,6 +456,7 @@ body {
         font-size: 2.5em;
         align-items: center;
         margin-left: 1%;
+        margin-bottom: 1%;
     }
 
     .box-form {
@@ -419,5 +486,30 @@ body {
     .nav {
         display: flex;
         justify-content: center;
+    }
+
+
+    .info-headings {
+        margin-right: 50%;
+        font-size: 1.9em;
+    }
+
+    .golf-club,
+    .clonalis-house,
+    .walking-trails,
+    .swimming-pool {
+        margin-top: -2%;
+        margin-left: 0.5%
+    }
+
+
+    .info-1,
+    .info-2,
+    .info-3,
+    .info-4 {
+        font-size: 2.5em;
+        align-items: center;
+        margin-left: 1%;
+        margin-bottom: 1%;
     }
 }
