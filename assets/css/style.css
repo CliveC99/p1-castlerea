@@ -238,6 +238,7 @@ body {
     max-width: 400px;
     position: absolute;
     top: 35%;
+    
 }
 
 .form-heading {
@@ -254,7 +255,7 @@ body {
     display: block;
     align-self: center;
     background-color: grey;
-    margin-left: 30%;
+   margin-left: 25%;
 }
 
 .form-text {
@@ -262,13 +263,15 @@ body {
     font-size: 16px;
     font-weight: 900;
     color: white;
-    margin-left: 38%;
+    display: flex;
+    justify-content: center;
 }
+
 
 #age {
     background-color: grey;
     border: 1px solid black;
-    margin-left: 37%;
+    margin-left: 33%;
 
 
 }
@@ -276,11 +279,11 @@ body {
 .age-range {
     color: white;
     font-weight: 900;
-    margin-left: 41%;
+    margin-left: 35%;
 }
 
 #submit {
-    margin-left: 45%;
+    margin-left: 38%;
     margin-top: 2%;
     font-size: 1em;
     padding: 0% 3% 0% 3%;
@@ -300,6 +303,20 @@ body {
         left: 5%;
     }
 }
+
+/****************************************** TEST ******************************************************************************/
+@media only screen and (max-width: 767px) {
+    .box-form {
+        margin-left: 25%;
+    }
+}
+
+@media only screen and (max-width: 534px) {
+    .box-form {
+        margin-left: 10%;
+    }
+}
+
 
 
 /*************************************************** TABLET BREAKPOINT ***********************************************************/
