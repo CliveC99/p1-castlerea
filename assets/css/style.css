@@ -434,12 +434,6 @@ body {
         padding: 0% 3% 0% 3%;
     }
 
-
-    .info-headings {
-        margin-right: 50%;
-        font-size: 1.9em;
-    }
-
     .golf-club,
     .clonalis-house,
     .walking-trails,
@@ -468,6 +462,28 @@ body {
         column-count: 5;
     }
 
+    .golf-club-heading, .walking-trails-heading{
+        margin-left: -50%;
+        font-size: 2em;
+        margin-bottom: -1%;
+    }
+
+    .clonalis-house-heading {
+        margin-left: -50%;
+        font-size: 2em;
+        margin-bottom: -3%;
+    }
+
+    .swimming-pool-heading {
+        margin-left: -50%;
+        font-size: 2em;
+        margin-bottom: -1%;
+    }
+
+    .info-1, .info-2, .info-3, .info-4 {
+        margin-bottom: 5%;
+    }
+
 }
 
 /*********************************************** DESKTOP BREAKPOINT ***************************************************************/
@@ -489,11 +505,6 @@ body {
     }
 
 
-    .info-headings {
-        margin-right: 50%;
-        font-size: 1.9em;
-    }
-
     .golf-club,
     .clonalis-house,
     .walking-trails,
@@ -511,5 +522,33 @@ body {
         align-items: center;
         margin-left: 1%;
         margin-bottom: 1%;
+    }
+
+    .golf-club-heading, .walking-trails-heading, .swimming-pool-heading {
+        margin-left: -50%;
+        font-size: 1.9em;
+        margin-bottom: -5%;
+    }
+
+    .clonalis-house-heading {
+        margin-left: -50%;
+        font-size: 1.9em;
+        margin-bottom: -8%;
+    }
+
+    .info-1 {
+        margin-bottom: 10%;
+    }
+
+    .info-2 {
+        margin-bottom: 7%;
+    }
+
+    .info-3 {
+        margin-bottom: 9%;
+    }
+
+    .info-4 {
+        margin-bottom: 5%;
     }
 }
