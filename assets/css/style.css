@@ -203,10 +203,12 @@ body {
 .fa-instagram-square,
 .fa-twitter,
 .fa-youtube {
-    color: white;
+    color: #008000;
 }
 
-
+.social-icons a:hover {
+    box-shadow: inset 200px 0 0 0 maroon;
+}
 /*********************************************************GALLARY*****************************************************************/
 #pictures {
     clear: both;
