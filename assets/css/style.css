@@ -97,9 +97,9 @@ body {
     max-width: 160px;
     max-height: 90px;
     background-color: #808283;
-    position: absolute;
     top: 85%;
     left: 70%;
+    position: absolute;
     opacity: 0.8;
 
 
@@ -109,12 +109,13 @@ body {
 .about-h1 {
     display: flex;
     justify-content: center;
-    margin-top: 1%
+    margin-top: 1.5%
 }
 
 .about-h2 {
     text-align: center;
     margin-top: 1%;
+    margin-right: 2%;
 }
 
 .info-1,
@@ -123,7 +124,8 @@ body {
 .info-4 {
     margin-left: 0.8%;
     text-align: center;
-    margin-right: 0.8%;
+    margin-right: 2%;
+    margin-left: 2%;
 }
 
 .about-p {
@@ -292,15 +294,20 @@ body {
         top: 85%;
     }
 }
+/************************************************ Large Mobile *******************************************************************/
+@media only screen and (max-width: 545px) {
+    .image-text {
+        left: 5%;
+    }
+}
 
 
 /*************************************************** TABLET BREAKPOINT ***********************************************************/
 @media only screen and (min-width: 768px) {
     .image-text {
         font-size: 0.7em;
-        left: 80%;
+        left: 86%;
         top: 75%;
-
     }
 
     #logo {
@@ -404,10 +411,18 @@ body {
 
 }
 
+
+/************************************************* Large Tablets *****************************************************************/
+@media only screen and (max-width: 1164px) {
+    .image-text {
+        left: 2%;
+    }
+}
+
 /************************************************* LAPTOP BREAKPOINT **************************************************************/
 @media only screen and (min-width: 1280px) {
     .image-text {
-        left: 86%;
+        left: 85%;
         top: 75%;
     }
 
