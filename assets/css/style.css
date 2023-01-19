@@ -211,6 +211,7 @@ body {
 .social-icons a:hover {
     box-shadow: inset 200px 0 0 0 maroon;
 }
+
 /*********************************************************GALLARY*****************************************************************/
 #pictures {
     clear: both;
@@ -237,25 +238,26 @@ body {
     background-color: rgba(25, 30, 30, 0.8);
     max-width: 400px;
     position: absolute;
-    top: 35%;
-    
+    top: 50%;
+    margin-right: -5%;
+
 }
 
 .form-heading {
     font-family: montserrat, sans-serif;
     font-weight: 900;
     color: white;
-    padding-top: 60%;
     text-align: center;
 }
 
 .text-input {
     border: solid black 1px;
     border-radius: 1.5px;
-    display: block;
     align-self: center;
     background-color: grey;
-   margin-left: 25%;
+    display: flex;
+    justify-content: center;
+    margin-left: 23%;
 }
 
 .form-text {
@@ -271,9 +273,7 @@ body {
 #age {
     background-color: grey;
     border: 1px solid black;
-    margin-left: 33%;
-
-
+    margin-left: 32%;
 }
 
 .age-range {
@@ -283,7 +283,7 @@ body {
 }
 
 #submit {
-    margin-left: 38%;
+    margin-left: 39%;
     margin-top: 2%;
     font-size: 1em;
     padding: 0% 3% 0% 3%;
@@ -297,27 +297,38 @@ body {
         top: 85%;
     }
 }
+
 /************************************************ Large Mobile *******************************************************************/
-@media only screen and (max-width: 545px) {
+@media only screen and (min-width: 545px) {
     .image-text {
         left: 5%;
+    }
+
+    .box-form {
+        right: 29%;
     }
 }
 
 /****************************************** TEST ******************************************************************************/
-@media only screen and (max-width: 767px) {
-    .box-form {
-        margin-left: 25%;
+
+@media only screen and (min-width: 376px) {
+    .form-heading {
+        margin-left: 3%;
+        font-size: 1.6em;
+    }
+
+    .text-input {
+        margin-left: 28%;
+    }
+
+    .age-range {
+        margin-left: 38%;
+    }
+
+    #age {
+        margin-left: 36%;
     }
 }
-
-@media only screen and (max-width: 534px) {
-    .box-form {
-        margin-left: 10%;
-    }
-}
-
-
 
 /*************************************************** TABLET BREAKPOINT ***********************************************************/
 @media only screen and (min-width: 768px) {
@@ -339,7 +350,7 @@ body {
     }
 
     .form-heading {
-        padding-top: 20%;
+        padding-top: 10%;
     }
 
     .text-input {
@@ -347,12 +358,9 @@ body {
         align-items: center;
     }
 
-    .form-text,
-    #age,
-    .age-range {
-        margin-left: 40% !important;
+    #submit {
+        margin-left: 40%;
     }
-
 
     .info-3,
     .info-4 {
@@ -418,7 +426,8 @@ body {
         margin-top: -0.5%;
     }
 
-    .info-1, .info-3 {
+    .info-1,
+    .info-3 {
         margin-bottom: 3%;
     }
 
@@ -452,12 +461,6 @@ body {
     .nav {
         display: flex;
         justify-content: center;
-    }
-
-    .form-text,
-    #age,
-    .age-range {
-        margin-left: 40% !important;
     }
 
     .social-icons {
@@ -496,7 +499,8 @@ body {
         column-count: 5;
     }
 
-    .golf-club-heading, .walking-trails-heading{
+    .golf-club-heading,
+    .walking-trails-heading {
         margin-left: -50%;
         font-size: 2em;
         margin-bottom: -1%;
@@ -514,7 +518,10 @@ body {
         margin-bottom: -1%;
     }
 
-    .info-1, .info-2, .info-3, .info-4 {
+    .info-1,
+    .info-2,
+    .info-3,
+    .info-4 {
         margin-bottom: 5%;
     }
 
@@ -558,7 +565,9 @@ body {
         margin-bottom: 1%;
     }
 
-    .golf-club-heading, .walking-trails-heading, .swimming-pool-heading {
+    .golf-club-heading,
+    .walking-trails-heading,
+    .swimming-pool-heading {
         margin-left: -50%;
         font-size: 1.9em;
         margin-bottom: -5%;
