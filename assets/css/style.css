@@ -295,6 +295,14 @@ body {
     .box-form {
         left: 15%;
     }
+
+    #pictures {
+        column-count: 2;
+    }
+
+    .drone {
+    height: 9.3%;
+    }
 }
 
 /****************************************** TEST ******************************************************************************/
@@ -404,6 +412,21 @@ body {
         column-count: 3;
     }
 
+    .drone {
+        height: 13.5%;
+    }
+
+    .pool-img {
+        height: 15%;
+    }
+
+    .bonfire-img {
+        height: 11.1%;
+    }
+
+    .above-img {
+        height: 12.3%;
+    }
     /***************** CONTACT PAGE ***************/
     .form-heading {
         padding-top: 10%;
