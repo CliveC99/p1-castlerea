@@ -289,29 +289,18 @@ body {
     padding: 0% 3% 0% 3%;
 }
 
-
-/***************************************************MOBILE BREAKPOINT ************************************************************/
-@media only screen and (max-width: 320px) {
-    .image-text {
-        left: 48%;
-        top: 85%;
-    }
-}
-
 /************************************************ Large Mobile *******************************************************************/
 @media only screen and (min-width: 545px) {
-    .image-text {
-        left: 5%;
-    }
-
+    /***************** HOME PAGE ***************/
     .box-form {
-        right: 29%;
+        left: 15%;
     }
 }
 
 /****************************************** TEST ******************************************************************************/
 
 @media only screen and (min-width: 376px) {
+    /***************** CONTACT PAGE ***************/
     .form-heading {
         margin-left: 3%;
         font-size: 1.6em;
@@ -321,17 +310,15 @@ body {
         margin-left: 28%;
     }
 
-    .age-range {
+    .age-range, #age {
         margin-left: 38%;
-    }
-
-    #age {
-        margin-left: 36%;
     }
 }
 
 /*************************************************** TABLET BREAKPOINT ***********************************************************/
 @media only screen and (min-width: 768px) {
+
+    /***************** HOME PAGE ***************/
     .image-text {
         font-size: 0.7em;
         left: 86%;
@@ -347,19 +334,6 @@ body {
     .nav {
         display: flex;
         justify-content: center;
-    }
-
-    .form-heading {
-        padding-top: 10%;
-    }
-
-    .text-input {
-        margin: auto;
-        align-items: center;
-    }
-
-    #submit {
-        margin-left: 40%;
     }
 
     .info-3,
@@ -403,20 +377,6 @@ body {
         margin-left: 1%;
     }
 
-
-    .box-form {
-        left: 25%;
-    }
-
-    #pictures {
-        column-count: 3;
-    }
-
-
-    .blank-text {
-        margin-top: 5%;
-    }
-
     .golf-club-heading,
     .clonalis-house-heading,
     .walking-trails-heading,
@@ -435,11 +395,40 @@ body {
         margin-bottom: 2%;
     }
 
+    .blank-text {
+        margin-top: 5%;
+    }
+
+    /***************** GALLARY PAGE ***************/
+    #pictures {
+        column-count: 3;
+    }
+
+    /***************** CONTACT PAGE ***************/
+    .form-heading {
+        padding-top: 10%;
+    }
+
+    .text-input {
+        margin: auto;
+        align-items: center;
+    }
+
+    #submit {
+        margin-left: 40%;
+    }
+
+    .box-form {
+        left: 25%;
+    }
+
 }
 
 
 /************************************************* Large Tablets *****************************************************************/
 @media only screen and (max-width: 1164px) {
+
+    /***************** HOME PAGE ***************/
     .image-text {
         left: 2%;
     }
@@ -447,6 +436,8 @@ body {
 
 /************************************************* LAPTOP BREAKPOINT **************************************************************/
 @media only screen and (min-width: 1280px) {
+
+    /***************** HOME PAGE ***************/
     .image-text {
         left: 85%;
         top: 75%;
@@ -467,10 +458,6 @@ body {
         background-size: cover;
     }
 
-    #submit {
-        padding: 0% 3% 0% 3%;
-    }
-
     .golf-club,
     .clonalis-house,
     .walking-trails,
@@ -478,7 +465,6 @@ body {
         margin-top: -2%;
         margin-left: 0.5%
     }
-
 
     .info-1,
     .info-2,
@@ -490,6 +476,16 @@ body {
         margin-bottom: 1%;
     }
 
+    /***************** GALLARY PAGE ***************/
+    #pictures {
+        column-count: 5;
+    }
+
+    /***************** CONTACT PAGE ***************/
+    #submit {
+        padding: 0% 3% 0% 3%;
+    }
+
     .box-form {
         left: 35%;
         top: 35%;
@@ -499,36 +495,12 @@ body {
         column-count: 5;
     }
 
-    .golf-club-heading,
-    .walking-trails-heading {
-        margin-left: -50%;
-        font-size: 2em;
-        margin-bottom: -1%;
-    }
-
-    .clonalis-house-heading {
-        margin-left: -50%;
-        font-size: 2em;
-        margin-bottom: -3%;
-    }
-
-    .swimming-pool-heading {
-        margin-left: -50%;
-        font-size: 2em;
-        margin-bottom: -1%;
-    }
-
-    .info-1,
-    .info-2,
-    .info-3,
-    .info-4 {
-        margin-bottom: 5%;
-    }
-
 }
 
 /*********************************************** DESKTOP BREAKPOINT ***************************************************************/
 @media only screen and (min-width: 1600px) {
+
+    /***************** HOME PAGE ***************/
     .image-text {
         left: 88%;
         top: 57%;
@@ -545,7 +517,6 @@ body {
         justify-content: center;
     }
 
-
     .golf-club,
     .clonalis-house,
     .walking-trails,
@@ -553,7 +524,6 @@ body {
         margin-top: -2%;
         margin-left: 0.5%
     }
-
 
     .info-1,
     .info-2,
