@@ -222,6 +222,7 @@ body {
 
 #pictures>img {
     width: 100%;
+    height: auto;
 }
 
 
@@ -291,6 +292,7 @@ body {
 
 /************************************************ Large Mobile *******************************************************************/
 @media only screen and (min-width: 545px) {
+
     /***************** HOME PAGE ***************/
     .box-form {
         left: 15%;
@@ -301,13 +303,14 @@ body {
     }
 
     .drone {
-    height: 9.3%;
+        height: 9.3%;
     }
 }
 
 /****************************************** TEST ******************************************************************************/
 
 @media only screen and (min-width: 376px) {
+
     /***************** CONTACT PAGE ***************/
     .form-heading {
         margin-left: 3%;
@@ -318,8 +321,20 @@ body {
         margin-left: 28%;
     }
 
-    .age-range, #age {
+    .age-range,
+    #age {
         margin-left: 38%;
+    }
+}
+
+/************************************************** GALLARY BREAKPOINT***********************************************************/
+@media only screen and (min-width: 545px) {
+    .church-img {
+        height: 16% !important;
+    }
+
+    .lights-img {
+        height: 14.3% !important;
     }
 }
 
@@ -412,21 +427,19 @@ body {
         column-count: 3;
     }
 
-    .drone {
-        height: 13.5%;
+    .mainst-img {
+        height: 25.7% !important;
     }
 
-    .pool-img {
-        height: 15%;
+    .scenery-img {
+        height: 14.4% !important;
     }
 
-    .bonfire-img {
-        height: 11.1%;
+    .lights-img {
+        height: 21.5% !important; 
     }
 
-    .above-img {
-        height: 12.3%;
-    }
+
     /***************** CONTACT PAGE ***************/
     .form-heading {
         padding-top: 10%;
@@ -504,6 +517,7 @@ body {
         column-count: 5;
     }
 
+
     /***************** CONTACT PAGE ***************/
     #submit {
         padding: 0% 3% 0% 3%;
@@ -512,10 +526,6 @@ body {
     .box-form {
         left: 35%;
         top: 35%;
-    }
-
-    #pictures {
-        column-count: 5;
     }
 
 }
