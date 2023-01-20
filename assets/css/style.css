@@ -301,13 +301,9 @@ body {
     #pictures {
         column-count: 2;
     }
-
-    .drone {
-        height: 9.3%;
-    }
 }
 
-/****************************************** TEST ******************************************************************************/
+/****************************************** MEDIUM MOBILE BREAKPOINT ******************************************************************************/
 
 @media only screen and (min-width: 376px) {
 
@@ -514,7 +510,23 @@ body {
 
     /***************** GALLARY PAGE ***************/
     #pictures {
-        column-count: 5;
+        column-count: 4;
+    }
+
+    .lights-img {
+        height: 21.9% !important;
+    }
+
+    .above-img {
+        height: 18.7% !important;
+    }
+
+    .drone-img {
+        height: 14.4% !important;
+    }
+
+    .trail-img {
+        height: 26.7% !important;
     }
 
 
