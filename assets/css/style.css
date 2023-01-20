@@ -360,6 +360,10 @@ body {
         margin-left: 0.7%;
         margin-right: 0.7%;
     }
+
+    .thanks-img {
+        margin-top: 1%;
+    }
 }
 
 /*************************************************** TABLET BREAKPOINT ***********************************************************/
@@ -488,6 +492,10 @@ body {
         top: 50%;
     }
 
+    .thanks-img {
+        margin-top: 1%;
+    }
+
 }
 
 
@@ -578,6 +586,10 @@ body {
     /******************************* FORM SUBMIT PAGE *************************************/
     .submit-text {
         font-size: 2.5em;
+    }
+
+    .thanks-img {
+        margin-top: 1%;
     }
 }
 
