@@ -31,21 +31,21 @@
 
     <!--Contact Section-->
     <section id="contact-form">
-    <form method="POST" target="_blank" action="https://formdump.codeinstitute.net/"  class="box-form">
+    <form method="GET" target="_blank" action="./contact-form.html"  class="box-form">
         <h1 class="form-heading">Here you can contact Castlerea Town Team!</h1>
 
         <label for="fname" class="form-text">First Name:</label>
-        <input id="fname" type="text" name="fname" class="text-input" required>
+        <input id="fname" type="text" name="fname" class="text-input">
 
         <label for="lname" class="form-text">Surname:</label>
-        <input id="lname" type="text" name="lname" class="text-input" required>
+        <input id="lname" type="text" name="lname" class="text-input" >
 
         <label for="email" class="form-text">Email Address:</label>
-        <input id="email" type="email" name="email" class="text-input" required>
+        <input id="email" type="email" name="email" class="text-input" >
 
         <p class="age-range">Age Range</p>
-        <select id="age" name="age">
-            <option value="Select-ge">Select an age</option>
+        <select id="age" name="age" required>
+            <option value="Select-age">Select an age</option>
             <option value="Under-18">Under 18</option>
             <option value="18-29">18-29</option>
             <option value="30-39">30-39</option>
@@ -57,8 +57,8 @@
         <input id="submit" type="submit" name="submit" class="text-input">
     </form>
     </section>
+    
     <!--Footer-->
-
     <footer>
         <ul class="social-icons">
             <li>

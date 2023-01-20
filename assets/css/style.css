@@ -290,6 +290,29 @@ body {
     padding: 0% 3% 0% 3%;
 }
 
+/*********************************************** FORM SUBMISSION PAGE ***********************************************************/
+.thanks-img {
+    background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674236687/castlerea-demense-form-submit_cb944h.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    margin-top: 3%;
+}
+
+.submit-text {
+    font-size: 1.2em;
+    font-family: montserrat, sans-serif;
+    text-transform: uppercase;
+    height: 35%;
+    color: white;
+    padding-top: 5%;
+    background-color: rgba(25, 30, 30, 0.8);
+    top: 65%;
+    text-align: center;
+    position: absolute;
+    opacity: 0.8;
+}
+
 /************************************************ Large Mobile *******************************************************************/
 @media only screen and (min-width: 545px) {
 
@@ -323,7 +346,7 @@ body {
     }
 }
 
-/************************************************** GALLARY BREAKPOINT***********************************************************/
+/************************************************** SMALL TABLET BREAKPOINT***********************************************************/
 @media only screen and (min-width: 545px) {
     .church-img {
         height: 16% !important;
@@ -331,6 +354,11 @@ body {
 
     .lights-img {
         height: 14.3% !important;
+    }
+
+    .submit-text {
+        margin-left: 0.7%;
+        margin-right: 0.7%;
     }
 }
 
@@ -432,7 +460,7 @@ body {
     }
 
     .lights-img {
-        height: 21.5% !important; 
+        height: 21.5% !important;
     }
 
 
@@ -452,6 +480,12 @@ body {
 
     .box-form {
         left: 25%;
+    }
+
+    /****************** FORM SUBMIT PAGE ***************/
+    .submit-text {
+        font-size: 2em;
+        top: 50%;
     }
 
 }
@@ -540,6 +574,11 @@ body {
         top: 35%;
     }
 
+
+    /******************************* FORM SUBMIT PAGE *************************************/
+    .submit-text {
+        font-size: 2.5em;
+    }
 }
 
 /*********************************************** DESKTOP BREAKPOINT ***************************************************************/
@@ -609,4 +648,13 @@ body {
     .info-4 {
         margin-bottom: 5%;
     }
+
+    /********************************** FORM SUBMISSION PAGE *****************************/
+    .submit-text {
+        top: 25%;
+        left: -2%;
+        font-size: 2.5em;
+        
+    }
+
 }
