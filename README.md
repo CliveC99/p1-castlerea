@@ -137,9 +137,32 @@ Laptop and Desktop Form View. ![Laptop Form View](https://res.cloudinary.com/dp9
   10. Within a couple of minutes your site will be deployed.
 
 
-  # Bugs and Fixes
-  - Add bugs and fixes.
+  # Bugs/Issues and Fixes
+ - Home Page
+   - I was having issues with the postion of the text on the hero image.
+   - I solved this by adding different breakpoints.
 
+  - Gallary Page 
+    - I was having issues with the images on the gallary page having space at the bottom of the page.
+    - I solved this by changing the height of some of the images at different breakpoints.
+
+  - Contact Form
+    - There was an issue where the "Age Range" was not required for submitting the form.
+    - I used p in the beginning but I switched it to label, This solved the issue.
+   
+    - There was an issue with the position of the box for the form on different viewpoints.
+    - I solved this by adding different breakpoints so the box would be in the correct position.
+
+    - The submit button was not sending the user to the page intended. The user was getting a "501 Error Code".
+    - In the begining I used 'method="POST"'. When I switched it to 'method="GET"' the issue was solved.
+
+  - General Bugs/Issues 
+     - The FavIcon was being displayed on my website when I would host it through Gitpod, but not through Github pages.
+     - The reason for this was: I was mising the "." before the "/" when I was linking the icons. The FavIcons were not placed in the assests folder. Once I changed this, It was working.
+
+    - The 404 error page was not loading.
+    - This was because I had named the file "404-error-page.html". When I changed the name to "404.html" txhe issue was solved.
+   
 
 
 # Added Items
