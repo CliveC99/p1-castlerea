@@ -314,6 +314,14 @@ body {
     opacity: 0.8;
 }
 
+/************************************************* 404 ERROR PAGE ***************************************************************/
+.error-page {
+background-size: cover;
+background-repeat: no-repeat;
+height: 600px;
+background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674340028/README%20Images/Gallery%20Photos/404-error-page-not-found_xeeksk.jpg) no-repeat center center;
+}
+
 /************************************************ Large Mobile *******************************************************************/
 @media only screen and (min-width: 545px) {
 
