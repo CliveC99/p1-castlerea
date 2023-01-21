@@ -87,6 +87,8 @@ body {
 .image-text h1,
 .image-text h2 {
     color: black;
+    text-align: center;
+    margin-left: 0.5%;
 }
 
 .image-text {
@@ -101,8 +103,6 @@ body {
     left: 70%;
     position: absolute;
     opacity: 0.8;
-
-
 }
 
 /******************************************** ABOUT CASTLEREA ********************************************************************/
@@ -516,6 +516,10 @@ body {
         left: 85%;
         top: 75%;
     }
+    .image-text h1,
+.image-text h2 {
+   margin-left: 1%;
+}
 
 
     #logo {
