@@ -20,7 +20,8 @@ I designed the website as a mobile view first and then I added breakpoints for d
 -![Contact](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674282928/contact-form-desktop_fclptp.png)
 
 # External Features
-  - The home page, information section, links external sites. This will give the user more information on each facility. 
+  - The home page - information section, links external sites. This will give the user more information on each facility.
+  - The footer social icons link externaly to the social media website.
 
 # Features 
 
@@ -28,15 +29,15 @@ I designed the website as a mobile view first and then I added breakpoints for d
   - When viewing the page on a mobile device the logo and the 3 pages (Home, Gallary, and Contact) are placed below each other.
   - When viewing the page on a tablet, a laptop, or a desktop the Logo is placed in the center of the top of the page. The 3 pages are placed under the logo in a row.
   - The logo is the name of the town I based the project on.
-  - A line will be shown under the page to indicate what page you're on.
+  - A line will be shown under the page to indicate what page you are on.
   - The nav states what page it will take you to. The page will open in a new tab.
   - When hovered over each of the page options will change colour. The background colour turns to yellow and the text turns to red.
 
-  ![Navigation Bar for Mobile](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674289845/README%20Images/Gallery%20Photos/nav-mobile_cldv5p.png) Navigation bar view on mobile.
+  Navigation bar view on mobile. ![Navigation Bar for Mobile](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674289845/README%20Images/Gallery%20Photos/nav-mobile_cldv5p.png)
 
-  ![Navigation Bar for Tablet, Desktop and Laptop](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674289804/README%20Images/Gallery%20Photos/nav-other_uk5sn7.png) Navigation bar view tablet, laptop and desktop.
+  Navigation bar view tablet, laptop and desktop. ![Navigation Bar for Tablet, Desktop and Laptop](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674289804/README%20Images/Gallery%20Photos/nav-other_uk5sn7.png)
 
-  ![Hovered over image](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674285348/highlight-background_rtehst.png) When the page is being hovered over.
+  When the page is being hovered over. ![Hovered over image](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674285348/highlight-background_rtehst.png)
 
   ## Footer
   - The footer has a background image with 4 font awesome - icons.
@@ -46,9 +47,8 @@ I designed the website as a mobile view first and then I added breakpoints for d
   - I got the image from [here.](https://www.pexels.com/photo/from-above-shot-of-dried-leaves-and-yellow-fruit-3018825/)
 
   - When hovered the background colour of each of the social icons will turn to red.
-  ![Footer](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674285639/footer-readme_ysktr8.png) Footer.
-  ![Footer hovered over](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674285627/footer-highlight_rnyy9p.png) Footer while being hovered over.
-
+  Footer. ![Footer](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674285639/footer-readme_ysktr8.png)
+  Footer while being hovered over. ![Footer hovered over](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674285627/footer-highlight_rnyy9p.png) 
 # Home Page
 
 ## Header
@@ -57,13 +57,13 @@ I designed the website as a mobile view first and then I added breakpoints for d
   - The Hero image is animated which I got inspiration from the Love Running Project.
   - I got the image from [here.](https://assets-eu-01.kc-usercontent.com/aa24ba70-9a12-01ae-259b-7ef588a0b2ef/a80108c7-1a1a-4fe2-8f8b-d4f0e9699535/header-castlerea-county-roscommon.jpg?w=2304&q=66&h=672&fit=crop&fm=jpg)
 
-![Hero Image](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674290748/README%20Images/Gallery%20Photos/hero-image_isav5j.png) Hero Image
+Hero Image. ![Hero Image](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674290748/README%20Images/Gallery%20Photos/hero-image_isav5j.png)
 
 
 ## Information Section
   - The text gives information about the location and population.
   - I picked Castlerea Golf Course, Clonalis House, The walking trails and Castlerea Swimming Pool because they are a massive part of our town.
-  - There are pieces of information about Castlerea with links to the original site for each facility, which opens in a new tab.
+  - There are pieces of information about Castlerea with links to the external site for each facility, which opens in a new tab.
   - When viewing the information section on mobile, the text is above the image.
   - When viewing the information section on tablet, laptop or desktop the text is to the left and the image is on the right.
   - The Walking Trail and Swimming Pool images were provided by Councillor Paschal Fitzmaurice.
@@ -71,19 +71,20 @@ I designed the website as a mobile view first and then I added breakpoints for d
   - The Clonalis House image was taken from [here.](https://weddingpages.ie/venues/wp-content/uploads/2017/05/clonalis-house-wedding-venue-roscommon.jpg)
 
 
-  -![mobile view](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291090/README%20Images/Gallery%20Photos/information-section-mobile_k9cnjk.png) Information section mobile view.
-  -![Tablet,laptop and desktop view](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291168/README%20Images/Gallery%20Photos/information-section-other_na8iej.png) Information section for tablet, laptop and desktop.
+  Information section mobile view. ![mobile view](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291090/README%20Images/Gallery%20Photos/information-section-mobile_k9cnjk.png)
+  Information section for tablet, laptop and desktop. ![Tablet,laptop and desktop view](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291168/README%20Images/Gallery%20Photos/information-section-other_na8iej.png)
 
 
 # Gallary Page
    - I added 21 images, they consist of the facilities in my area, Christmas Lights and Castlerea from up the sky.
    - When viewing the gallary page on mobile the images are stacked above each other.
    - When viewing on a tablet the images are placed 3 wide in a column.
-   - When viewing on a laptop and desktop the images are placed 4 wide in a column.
+   - When viewing on a laptop or desktop the images are placed 4 wide in a column.
   - All of the images on the gallary page were provided by Paschal Fitzmaurice a local councillor in my area. I was given permission to use these images for my website. 
-  ![Gallary Mobile View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291860/README%20Images/Gallery%20Photos/gallary-mobile-view_vl9lsk.png) Mobile Gallary View.
-  ![Gallary Tablet View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291956/README%20Images/Gallery%20Photos/gallary-tablet-view_hp0ltc.png) Tablet Gallary View.
-  ![Laptop Gallary View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674292036/README%20Images/Gallery%20Photos/gallary-laptop-view_a3rsv0.png) Laptop and Desktop Gallary View.
+
+  Mobile Gallary View. ![Gallary Mobile View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291860/README%20Images/Gallery%20Photos/gallary-mobile-view_vl9lsk.png)
+  Tablet Gallary View. ![Gallary Tablet View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291956/README%20Images/Gallery%20Photos/gallary-tablet-view_hp0ltc.png)
+  Laptop and Desktop Gallary View. ![Laptop Gallary View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674292036/README%20Images/Gallery%20Photos/gallary-laptop-view_a3rsv0.png)
 
 # Contact Page
 ## Form
@@ -94,25 +95,47 @@ I designed the website as a mobile view first and then I added breakpoints for d
   - First name, Surname and Email address are required to complete the form.
   - The submit button at the bottom allows the user to send their details for a response.
   - When submitted the form will take you to a form submission page in a new tab.
-![Form Mobile View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674292357/README%20Images/Gallery%20Photos/form-mobile-view_nzy73b.png) Mobile Form View.
-![Form Tablet View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674292429/README%20Images/Gallery%20Photos/form-tablet-view_eukfiw.png) Tablet Form View.
-![Laptop Form View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674292491/README%20Images/Gallery%20Photos/form-laptop-view_hnzutm.png) Laptop and Desktop Form View.
+  - The background image was taken from [here.](https://www.discoversuckvalleyway.ie/admin/uploads/walks/resized_castlerea-trails-suck-valley-way.jpg)
+
+
+
+ Mobile Form View. ![Form Mobile View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674292357/README%20Images/Gallery%20Photos/form-mobile-view_nzy73b.png)
+Tablet Form View. ![Form Tablet View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674292429/README%20Images/Gallery%20Photos/form-tablet-view_eukfiw.png)
+Laptop and Desktop Form View. ![Laptop Form View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674292491/README%20Images/Gallery%20Photos/form-laptop-view_hnzutm.png)
 
 ## Form Submission Page
-  - When the form is submmited it will take you to this page. It gives the user the information that their request has been received and they will be contacted shortly. 
-  -![form submission](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674284918/form-submission_mdpwy6.png)
+  - When the form is submmited it will take you to this page. It gives the user the information that their request has been received and they will be contacted shortly. The nav bar allows the user to return to the home page. 
+
+  Mobile Form Submission Page. ![Mobile Form Submission Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674326954/README%20Images/Gallery%20Photos/form-submit-mobile_ksi26a.png)
+  Laptop and Desktop Form Submission Page. ![Laptop Form Submission Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674284918/form-submission_mdpwy6.png)
 
 # Manual Testing
-  - I tested the website in Chrome, Edge and Opera.
+  - From the start, the website was tested in different browsers (Chrome, Edge and Opera), While using dev tools. This was to make sure everything would run smoothly
+  - I tested the external and internal links to make sure they were working.
+  - I tested the form to make sure the fields were required and it was submiting correctly.
+  - The smallest screen size is recommended at 320px x 745px.
+
+   # Validation
+  - I used [W3S HTML Checker](https://validator.w3.org/) for testing my HTML code.
+  - I used [W3S CSS Checker](https://jigsaw.w3.org/css-validator/) for testing my CSS code.
+
+  - All tests came back with no errors.
 
   # LightHouse Testing
   - Add images and explain
 
-  # Validation
-  - Add images of validation
-
   # Deployment
-  - Add steps for deployment
+  1. Open up [GitHub.](https://github.com/)
+  2. Click repositories.
+  3. Select the repositories you would like to deploy.
+  4. Click on the settings page.
+  5. Select pages.
+  6. Under sourse, select "Deploy from branch".
+  7. Under branch, select "main".
+  8. Select "/ root".
+  9. Select save.
+  10. Within a couple of minutes your site will be deployed.
+
 
   # Bugs and Fixes
   - Add bugs and fixes.
