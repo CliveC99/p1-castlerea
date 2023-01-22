@@ -11,6 +11,28 @@ I designed the website as a mobile view first and then I added breakpoints for d
 
 ![Home Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674331737/README%20Images/Gallery%20Photos/home-page-responsive_tcufiz.png)
 
+# Table of Contents   
+
+  - <p><a href="#ux">UX</a></p>
+  - <p><a href="#design">Design</a></summary>
+  - <p><a href="#wireframes">WireFrames</a></p>
+  - <p><a href="#responsive-test">Responsive Test</a></p>
+  - <p><a href="#external-features">External Features</a></p>  
+  - <p><a href="#features">Features</a></p>
+  - <p><a href="#home-page">Home Page</a></p>
+  - <p><a href="#gallary-page">Gallery Page</a></p>
+  - <p><a href="#contact-page">Contact Page</a></p>
+  - <p><a href="#form-submission-page">Form Submission Page</a></p>
+  - <p><a href="#manual-testing">Manual Testing</a></p>
+  - <p><a href="#validation">Validation</a></p>
+  - <p><a href="#lighthouse-testing">LightHouse Testing</a></p>
+  - <p><a href="#deployment">Deployment</a></p>
+  - <p><a href="#bugs-and-fixes">Bugs and Fixes</a></p>
+  - <p><a href="#added-items">Added Items</a></p>
+  - <p><a href="#credits">Credits</a></p>
+ 
+
+
 # UX
 ### **User Goals** 
 - As a user, I want to find out information about Castlerea.
@@ -43,27 +65,32 @@ I designed the website as a mobile view first and then I added breakpoints for d
 
 # WireFrames 
 
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674339531/README%20Images/Gallery%20Photos/index-mobile-view_vnqt7j.png"></p>
+<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674339531/README%20Images/Gallery%20Photos/index-mobile-view_vnqt7j.png" alt="Home Page Mobile View"></p>
 
 ![Home Page Laptop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883228/README%20Images/Gallery%20Photos/index-laptop-view_xbuhs9.png) 
 
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883227/README%20Images/Gallery%20Photos/gallary-mobile-view_voytqr.png"></p>
+<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883227/README%20Images/Gallery%20Photos/gallary-mobile-view_voytqr.png" alt="Gallary Page Mobile View"></p>
 
 ![Gallary Page Laptop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883227/README%20Images/Gallery%20Photos/gallary-laptop-view_bbyhqz.png) 
 
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883228/README%20Images/Gallery%20Photos/contact-mobile-view_opau5z.png"></p>
+<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883228/README%20Images/Gallery%20Photos/contact-mobile-view_opau5z.png" alt="Contact Page Mboile View"></p>
 
 ![Contact Page Laptop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883228/README%20Images/Gallery%20Photos/contact-laptop-view_gqrdoj.png)
 
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674282928/contact-form-mobile_bvw7c3.png"></p>
+<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674282928/contact-form-mobile_bvw7c3.png" alt="Form Submission Page Mobile View"></p>
 
-![Contact Page Laptop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674282928/contact-form-desktop_fclptp.png)
+![Form Submission Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674282928/contact-form-desktop_fclptp.png)
+
+<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674430044/README%20Images/Gallery%20Photos/404-mobile-view_tlp8kk.png" alt="404 Error Page Mobile View"></p>
+
+![404 Error Page Laptop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674430044/README%20Images/Gallery%20Photos/404-laptop-view_jxvi5a.png)
 
 # Responsive Test
 ![Home Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674331737/README%20Images/Gallery%20Photos/home-page-responsive_tcufiz.png)
 ![Gallary Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674331768/README%20Images/Gallery%20Photos/gallary-page-responsive_zlonkg.png)
 ![Contact Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674331797/README%20Images/Gallery%20Photos/contact-page-responsive_jg3ann.png)
 ![Form Submission Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674331828/README%20Images/Gallery%20Photos/form-submission-page-responsive_qlb3cx.png)
+![404 Error Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674424523/README%20Images/Gallery%20Photos/404-page-responive_c48hzd.png)
 
 
 # External Features
@@ -121,9 +148,9 @@ Hero Image. ![Hero Image](https://res.cloudinary.com/dp9lxtk3y/image/upload/v167
   - The Golf Course image was taken from [here.](https://upload.wikimedia.org/wikipedia/commons/5/51/Castlerea_-_Clonalis_House_-_20190823040950.jpg)
   - The Clonalis House image was taken from [here.](https://weddingpages.ie/venues/wp-content/uploads/2017/05/clonalis-house-wedding-venue-roscommon.jpg)
 
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291090/README%20Images/Gallery%20Photos/information-section-mobile_k9cnjk.png"></p>
+<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291090/README%20Images/Gallery%20Photos/information-section-mobile_k9cnjk.png" alt="Information Section Laptop View"></p>
 
- ![Tablet,laptop and desktop view](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291168/README%20Images/Gallery%20Photos/information-section-other_na8iej.png)
+ ![Information Section Tablet,Laptop and Desktop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291168/README%20Images/Gallery%20Photos/information-section-other_na8iej.png)
 
 
 # Gallary Page
@@ -133,9 +160,9 @@ Hero Image. ![Hero Image](https://res.cloudinary.com/dp9lxtk3y/image/upload/v167
    - When viewing on a laptop or desktop the images are placed 4 wide in a column.
   - All of the images on the gallary page were provided by Paschal Fitzmaurice a local councillor in my area. I was given permission to use these images for my website. 
 
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291860/README%20Images/Gallery%20Photos/gallary-mobile-view_vl9lsk.png"></p>
+<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291860/README%20Images/Gallery%20Photos/gallary-mobile-view_vl9lsk.png" alt="Gallary Page Mobile View"></p>
 
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291956/README%20Images/Gallery%20Photos/gallary-tablet-view_hp0ltc.png"></p>
+<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291956/README%20Images/Gallery%20Photos/gallary-tablet-view_hp0ltc.png" alt="Gallary Page Tablet View"></p>
 
 ![Laptop Gallary View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674292036/README%20Images/Gallery%20Photos/gallary-laptop-view_a3rsv0.png)
 
@@ -153,16 +180,16 @@ Hero Image. ![Hero Image](https://res.cloudinary.com/dp9lxtk3y/image/upload/v167
   - The submit button at the bottom allows the user to send their details for a response.
   - When submitted the form will take you to a form submission page in a new tab.
 
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674292357/README%20Images/Gallery%20Photos/form-mobile-view_nzy73b.png"></p>
+<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674292357/README%20Images/Gallery%20Photos/form-mobile-view_nzy73b.png" alt="Form View Mobile"></p>
 
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674292429/README%20Images/Gallery%20Photos/form-tablet-view_eukfiw.png"></p>
+<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674292429/README%20Images/Gallery%20Photos/form-tablet-view_eukfiw.png" alt="Form View Tablet></p>
 
 ![Laptop Form View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674292491/README%20Images/Gallery%20Photos/form-laptop-view_hnzutm.png)
 
 ## Form Submission Page
   - When the form is submmited it will take you to this page. It gives the user the information that their request has been received and they will be contacted shortly. The nav bar allows the user to return to the home page. 
 
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674326954/README%20Images/Gallery%20Photos/form-submit-mobile_ksi26a.png"></p>
+<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674326954/README%20Images/Gallery%20Photos/form-submit-mobile_ksi26a.png" alt="Form Submission Page Mobile View"></p>
 
 ![Laptop Form Submission Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674284918/form-submission_mdpwy6.png)
 
@@ -194,7 +221,7 @@ Hero Image. ![Hero Image](https://res.cloudinary.com/dp9lxtk3y/image/upload/v167
   10. Within a couple of minutes your site will be deployed.
 
 
-  # Bugs/Issues and Fixes
+  # Bugs and Fixes
  - **Home Page**
    - I was having issues with the postion of the text on the hero image.
    - I solved this by adding different breakpoints.
@@ -215,13 +242,16 @@ Hero Image. ![Hero Image](https://res.cloudinary.com/dp9lxtk3y/image/upload/v167
     - The submit button was not sending the user to the page intended. The user was getting a "501 Error Code".
     - In the begining I used `method="POST"` When I switched it to `method="GET"` the issue was solved.
 
+  - **404 Error Page**
+    - I was having issues with my 404 page.
+    - I had saved the page as 404-error-page.html. This was causing issues until I renamed the page 404.html.
+    - The 404 page would not load when I would host it locally.
+    - I fixed this issue by using the preview a page feature on Gitpod. This allowed me to fix my css code while viewing it, otherwise I would have to "Git push" every edit.
+
   - **General Bugs/Issues** 
      - The FavIcon was being displayed on my website when I would host it through Gitpod, but not through Github pages.
-     - The reason for this was: I was mising the "." before the "/" when I was linking the icons. The FavIcons were not placed in the assests folder. Once I changed this, It was working.
+     - The reason for this was: I was mising the "`.`" before the "`/`" when I was linking the icons. The FavIcons were not placed in the assests folder. Once I changed this, It was working.
 
-    - The 404 error page was not loading.
-    - This was because I had named the file "404-error-page.html". When I changed the name to "404.html" txhe issue was solved.
-   
 
 
 # Added Items
@@ -232,7 +262,7 @@ Hero Image. ![Hero Image](https://res.cloudinary.com/dp9lxtk3y/image/upload/v167
   ![Fav Icon](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673822771/README%20Images/Gallery%20Photos/android-chrome-192x192_j4lo6z.png)
   ![Fav Icon](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674292736/README%20Images/Gallery%20Photos/fav-icon_hu3xqk.png)
 
-  # **Cloudinary** 
+  ## **Cloudinary** 
   - I decided to switch from saving my images in an images folder to using Cloudinary.
   - I found this would benefit my websites performance.
   - Check out [Cloudinary here.](https://cloudinary.com/ip/gr-sea-gg-brand-home-base?utm_source=google&utm_medium=search&utm_campaign=goog_selfserve_brand_wk22_replicate_core_branded_keyword&utm_term=1329&campaignid=17601148700&adgroupid=141182782954&keyword=cloudinary&device=c&matchtype=e&adposition=&gclid=Cj0KCQiA_P6dBhD1ARIsAAGI7HBiqtoSkOp8dv2sdvprV-d3z6NkMdyK0guRRH98shquMJ7QiCtVbJQaAnvIEALw_wcB)
@@ -243,11 +273,18 @@ Hero Image. ![Hero Image](https://res.cloudinary.com/dp9lxtk3y/image/upload/v167
     ![Cloudinary](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673879894/README%20Images/Gallery%20Photos/cloudinary-example_dcrf5f.png)
 
 
+    ## **404 Error  Page**
+  - I decided to create an Error Page for my website. I feel this adds to the website instead of having a plain 404 error page.
+  - I based it the same as the other pages on my website. 
+  - This mean the user has the option to go back to the home page of the website.
+  - When the "Go Back!" text is hover over it changes from Green to Maroon.
 
+<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674425252/README%20Images/Gallery%20Photos/404-error-page-mobile_vxh1vl.png" alt="404 Error Page Mobile View"></p>
 
+<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674425253/README%20Images/Gallery%20Photos/404-error-page-tablet_wocltp.png" alt="404 Error Page Table View"></p>
 
-    # **404 Error  Page**
-  - Explain 404 page
+![404 Error Page Laptop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674425252/README%20Images/Gallery%20Photos/404-error-page-laptop_o3dzj4.png)
+![404 Error Page Hovering](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674425253/README%20Images/Gallery%20Photos/404-error-page-hover_gxlxnw.png)
 
 
 
