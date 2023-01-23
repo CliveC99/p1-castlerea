@@ -188,6 +188,7 @@ I designed the website as a mobile view first. I then added breakpoints for diff
 
 ## Form Submission Page
   - When the form is submitted it will take you to this page. It gives the user the information that their request has been received and they will be contacted shortly. The nav bar allows the user to return to the home page. 
+  - Check it out [here.](https://clivec99.github.io/p1-castlerea/contact-form.html)
   - The background image was taken from [here.](https://www.buildingsofireland.ie/building-images/niah/images/survey_specific/800/31814014_1.jpg)
 
 <p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674326954/README%20Images/Gallery%20Photos/form-submit-mobile_ksi26a.png" alt="Form Submission Page Mobile View"></p>
@@ -195,14 +196,19 @@ I designed the website as a mobile view first. I then added breakpoints for diff
 ![Laptop Form Submission Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674284918/form-submission_mdpwy6.png)
 
 # Manual Testing
-  - From the start, the website was tested in different browsers (Chrome, Edge and Opera), While using dev tools. This was to make sure everything would run smoothly
+  - From the start, the website was tested in different browsers (Chrome, Edge and Opera), While using dev tools. This was to make sure everything would run smoothly.
+  - I was constantly testing the website on my phone to make sure everything looked good and worked as it should. (Xiaomi Mi 10T Pro)
+  - I tested that the text was easily readable using the text contrast feature in dev tools.
   - I tested the external and internal links to make sure they were working.
   - I tested the form to make sure the fields were required and it was submitting correctly.
   - The smallest screen size is recommended at 320px x 745px.
 
    # Validation
   - I used [W3S HTML Checker](https://validator.w3.org/) for testing my HTML code.
+
   - I used [W3S CSS Checker](https://jigsaw.w3.org/css-validator/) for testing my CSS code.
+
+)
 
   - All tests came back with no errors.
 
@@ -280,6 +286,7 @@ I designed the website as a mobile view first. I then added breakpoints for diff
   - This mean the user has the option to go back to the home page of the website.
   - When the "Go Back!" text is hovered over, it changes from Green to Maroon.
   - The background image was taken from [here.](https://upload.wikimedia.org/wikipedia/commons/8/8c/087%2C_Castlrea.jpg)
+  - Check out the [404 Error Page.](https://clivec99.github.io/p1-castlerea/404.html)
 
 <p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674425252/README%20Images/Gallery%20Photos/404-error-page-mobile_vxh1vl.png" alt="404 Error Page Mobile View"></p>
 
