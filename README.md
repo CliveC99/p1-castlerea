@@ -188,6 +188,7 @@ I designed the website as a mobile view first. I then added breakpoints for diff
 
 ## Form Submission Page
   - When the form is submitted it will take you to this page. It gives the user the information that their request has been received and they will be contacted shortly. The nav bar allows the user to return to the home page. 
+  - The background image was taken from [here.](https://www.buildingsofireland.ie/building-images/niah/images/survey_specific/800/31814014_1.jpg)
 
 <p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674326954/README%20Images/Gallery%20Photos/form-submit-mobile_ksi26a.png" alt="Form Submission Page Mobile View"></p>
 
@@ -196,7 +197,7 @@ I designed the website as a mobile view first. I then added breakpoints for diff
 # Manual Testing
   - From the start, the website was tested in different browsers (Chrome, Edge and Opera), While using dev tools. This was to make sure everything would run smoothly
   - I tested the external and internal links to make sure they were working.
-  - I tested the form to make sure the fields were required and it was submiting correctly.
+  - I tested the form to make sure the fields were required and it was submitting correctly.
   - The smallest screen size is recommended at 320px x 745px.
 
    # Validation
@@ -214,16 +215,16 @@ I designed the website as a mobile view first. I then added breakpoints for diff
   3. Select the repositories you would like to deploy.
   4. Click on the settings page.
   5. Select pages.
-  6. Under sourse, select "Deploy from branch".
+  6. Under source, select "Deploy from branch".
   7. Under branch, select "main".
   8. Select "/ root".
   9. Select save.
-  10. Within a couple of minutes your site will be deployed.
+  10. Within a couple of minutes, your site will be deployed.
 
 
   # Bugs and Fixes
  - **Home Page**
-   - I was having issues with the postion of the text on the hero image.
+   - I was having issues with the position of the text on the hero image.
    - I solved this by adding different breakpoints.
  
    
@@ -234,23 +235,23 @@ I designed the website as a mobile view first. I then added breakpoints for diff
 
   - **Contact Form**
     - There was an issue where the "Age Range" was not required for submitting the form.
-    - I used `<p>` in the beginning but I switched it to `<label>` this solved the issue.
+    - I used `<p>` in the beginning but, I switched it to `<label>` this solved the issue.
    
     - There was an issue with the position of the box for the form on different viewpoints.
-    - I solved this by adding different breakpoints so the box would be in the correct position.
+    - I solved this by adding different breakpoints, so the box would be in the correct position.
 
     - The submit button was not sending the user to the page intended. The user was getting a "501 Error Code".
-    - In the begining I used `method="POST"` When I switched it to `method="GET"` the issue was solved.
+    - In the beginning  I used `method="POST"` When I switched it to `method="GET"` the issue was solved.
 
   - **404 Error Page**
     - I was having issues with my 404 page.
     - I had saved the page as 404-error-page.html. This was causing issues until I renamed the page 404.html.
     - The 404 page would not load when I would host it locally.
-    - I fixed this issue by using the preview a page feature on Gitpod. This allowed me to fix my css code while viewing it, otherwise I would have to "Git push" every edit.
+    - I fixed this issue by using the preview a page feature on Gitpod. This allowed me to fix my CSS code while viewing it, otherwise I would have to "Git push" every edit.
 
   - **General Bugs/Issues** 
      - The FavIcon was being displayed on my website when I would host it through Gitpod, but not through Github pages.
-     - The reason for this was: I was mising the "`.`" before the "`/`" when I was linking the icons. The FavIcons were not placed in the assests folder. Once I changed this, It was working.
+     - The reason for this was: I was missing the "`.`" before the "`/`" when I was linking the icons. The FavIcons were not placed in the assets folder. Once I changed this, It was working.
 
 
 
@@ -264,7 +265,7 @@ I designed the website as a mobile view first. I then added breakpoints for diff
 
   ## **Cloudinary** 
   - I decided to switch from saving my images in an images folder to using Cloudinary.
-  - I found this would benefit my websites performance.
+  - I found this would benefit the performance of my website.
   - Check out [Cloudinary here.](https://cloudinary.com/ip/gr-sea-gg-brand-home-base?utm_source=google&utm_medium=search&utm_campaign=goog_selfserve_brand_wk22_replicate_core_branded_keyword&utm_term=1329&campaignid=17601148700&adgroupid=141182782954&keyword=cloudinary&device=c&matchtype=e&adposition=&gclid=Cj0KCQiA_P6dBhD1ARIsAAGI7HBiqtoSkOp8dv2sdvprV-d3z6NkMdyK0guRRH98shquMJ7QiCtVbJQaAnvIEALw_wcB)
   - I created an account.
   - I created a folder and uploaded my images.
@@ -277,7 +278,8 @@ I designed the website as a mobile view first. I then added breakpoints for diff
   - I decided to create an Error Page for my website. I feel this adds to the website instead of having a plain 404 error page.
   - I based it the same as the other pages on my website. 
   - This mean the user has the option to go back to the home page of the website.
-  - When the "Go Back!" text is hover over it changes from Green to Maroon.
+  - When the "Go Back!" text is hovered over, it changes from Green to Maroon.
+  - The background image was taken from [here.](https://upload.wikimedia.org/wikipedia/commons/8/8c/087%2C_Castlrea.jpg)
 
 <p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674425252/README%20Images/Gallery%20Photos/404-error-page-mobile_vxh1vl.png" alt="404 Error Page Mobile View"></p>
 
@@ -299,7 +301,7 @@ I designed the website as a mobile view first. I then added breakpoints for diff
   - The 404 Error Page image was taken from [here.](https://upload.wikimedia.org/wikipedia/commons/8/8c/087%2C_Castlrea.jpg)
 
  ## **Tools Used**
-  - I used [Am I Responsive?](https://ui.dev/amiresponsive) to check was the website responive on devices.
+  - I used [Am I Responsive?](https://ui.dev/amiresponsive) to check was the website responsive on devices.
   - I used [Balsamiq](https://balsamiq.com/) for creating the wireframes.
   - I used [Google Fonts](https://fonts.google.com/) for the font.
   - I used [Font Awesome](https://fontawesome.com/) for the social icons.
@@ -308,4 +310,4 @@ I designed the website as a mobile view first. I then added breakpoints for diff
 
   ## **Other**
   - This project would not be possible without the help from my mentor.
-  - Councillor Paschal Fitzmaurice provied me with images for the Gallary page, The Swimming Pool and the Walking Trail on the home page.
+  - Councillor Paschal Fitzmaurice provided me with images for the Gallary page, The Swimming Pool and the Walking Trail on the home page.
