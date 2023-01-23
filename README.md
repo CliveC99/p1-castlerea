@@ -5,9 +5,9 @@ Using this page you will receive information on things to do in the area, a gall
 
 I created this website based on my hometown to bring in more tourists and to show what rural towns have to offer and what small towns in the west of Ireland are like.
 
-I really think the west of Ireland has so much to offer, Castlerea is a great example as you will see from the information and images provided in the website.
+I think the west of Ireland has so much to offer. Castlerea is an excellent example, as you will see from the information and images provided on the website.
 
-I designed the website as a mobile view first and then I added breakpoints for different screen sizes.
+I designed the website as a mobile view first. I then added breakpoints for different screen sizes.
 
 ![Home Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674331737/README%20Images/Gallery%20Photos/home-page-responsive_tcufiz.png)
 
@@ -36,19 +36,19 @@ I designed the website as a mobile view first and then I added breakpoints for d
 # UX
 ### **User Goals** 
 - As a user, I want to find out information about Castlerea.
-- As a user, I want to see some of the facilities Castlerea has to offer.
+- As a user, I want to see some of the facilities Castlerea offers.
 - As a user, I want to see some of the pictures from Castlerea.
 - As a user, I want to be able to contact the site owner.
 - As a user, I want to be able to provide my details for a response back.
 - As a user, I want to be able to access the website without any struggle.
-- As a user, I want to be able to view the website on any type of device.
+- As a user, I want to be able to view the website on any device.
 
 ### **Site Owner Goals**
 - I want to be able to update the website as it needs to be updated.
-- I want to be able to recieve the information from the contact form.
+- I want to be able to receive the information from the contact form.
 - I want to be able to reply to the users with the information provided in the contact form.
 - I want to be able to bring tourists to the area.
-- I want to be able to show thr user how nice the West of Ireland is.
+- I want to be able to show the user how nice the West of Ireland is.
 
 # Design
 ### **Colours**
@@ -69,9 +69,9 @@ I designed the website as a mobile view first and then I added breakpoints for d
 
 ![Home Page Laptop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883228/README%20Images/Gallery%20Photos/index-laptop-view_xbuhs9.png) 
 
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883227/README%20Images/Gallery%20Photos/gallary-mobile-view_voytqr.png" alt="Gallary Page Mobile View"></p>
+<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883227/README%20Images/Gallery%20Photos/gallary-mobile-view_voytqr.png" alt="Gallery Page Mobile View"></p>
 
-![Gallary Page Laptop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883227/README%20Images/Gallery%20Photos/gallary-laptop-view_bbyhqz.png) 
+![Gallery Page Laptop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883227/README%20Images/Gallery%20Photos/gallary-laptop-view_bbyhqz.png) 
 
 <p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883228/README%20Images/Gallery%20Photos/contact-mobile-view_opau5z.png" alt="Contact Page Mboile View"></p>
 
@@ -87,15 +87,15 @@ I designed the website as a mobile view first and then I added breakpoints for d
 
 # Responsive Test
 ![Home Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674331737/README%20Images/Gallery%20Photos/home-page-responsive_tcufiz.png)
-![Gallary Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674331768/README%20Images/Gallery%20Photos/gallary-page-responsive_zlonkg.png)
+![Gallery Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674331768/README%20Images/Gallery%20Photos/gallary-page-responsive_zlonkg.png)
 ![Contact Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674331797/README%20Images/Gallery%20Photos/contact-page-responsive_jg3ann.png)
 ![Form Submission Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674331828/README%20Images/Gallery%20Photos/form-submission-page-responsive_qlb3cx.png)
 ![404 Error Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674424523/README%20Images/Gallery%20Photos/404-page-responive_c48hzd.png)
 
 
 # External Features
-  - The home page - information section, links external sites. This will give the user more information on each facility.
-  - The footer social icons link externaly to the social media website.
+  - The home page "information section" links to external sites. This will give the user more information on each facility.
+  - The footer social icons link externally to the social media website.
   - The social icons are from font awesome.
   - The font used on the website is Montserrat.
   
@@ -103,12 +103,12 @@ I designed the website as a mobile view first and then I added breakpoints for d
 # Features 
 
 ## **Navigation Bar**
-  - When viewing the page on a mobile device the logo and the 3 pages (Home, Gallary, and Contact) are placed below each other.
+  - When viewing the website on a mobile device the logo and the three pages (Home, Gallary, and Contact) are placed below each other.
   - When viewing the page on a tablet, a laptop, or a desktop the Logo is placed in the center of the top of the page. The 3 pages are placed under the logo in a row.
   - The logo is the name of the town I based the project on.
   - A line will be shown under the page to indicate what page you are on.
   - The nav states what page it will take you to. The page will open in a new tab.
-  - When hovered over each of the page options will change colour. The background colour turns to yellow and the text turns to red.
+  - When hovered over each, of the page options will change colour. The background colour turns to yellow and the text turns to red.
 
 
 ![Navigation Bar for Mobile](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674289845/README%20Images/Gallery%20Photos/nav-mobile_cldv5p.png)
@@ -122,20 +122,20 @@ I designed the website as a mobile view first and then I added breakpoints for d
   - Each icon links directly to the site in a new tab.
   - The options are Facebook, Instagram, Twitter and Youtube.
   - The footer is the same across all the pages.
+  - When hovered, the background colour of each of the social icons will turn to red.
   - I got the image from [here.](https://www.pexels.com/photo/from-above-shot-of-dried-leaves-and-yellow-fruit-3018825/)
 
-  - When hovered the background colour of each of the social icons will turn to red.
-  Footer. ![Footer](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674285639/footer-readme_ysktr8.png)
-  Footer while being hovered over. ![Footer hovered over](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674285627/footer-highlight_rnyy9p.png) 
+  ![Footer](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674285639/footer-readme_ysktr8.png)
+  ![Footer hovered over](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674285627/footer-highlight_rnyy9p.png) 
 # Home Page
 
 ## **Header**
   - The header includes a hero image with text inside it. 
   - The image is an area in Castlerea and the text states the name of the town and what county it is in.
-  - The Hero image is animated which I got inspiration from the Love Running Project.
+  - The Hero image is animated, which I got inspiration from the Love Running Project.
   - I got the image from [here.](https://assets-eu-01.kc-usercontent.com/aa24ba70-9a12-01ae-259b-7ef588a0b2ef/a80108c7-1a1a-4fe2-8f8b-d4f0e9699535/header-castlerea-county-roscommon.jpg?w=2304&q=66&h=672&fit=crop&fm=jpg)
 
-Hero Image. ![Hero Image](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674290748/README%20Images/Gallery%20Photos/hero-image_isav5j.png)
+![Hero Image](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674290748/README%20Images/Gallery%20Photos/hero-image_isav5j.png)
 
 
 ## **Information Section**
@@ -143,7 +143,7 @@ Hero Image. ![Hero Image](https://res.cloudinary.com/dp9lxtk3y/image/upload/v167
   - I picked Castlerea Golf Course, Clonalis House, The walking trails and Castlerea Swimming Pool because they are a massive part of our town.
   - There are pieces of information about Castlerea with links to the external site for each facility, which opens in a new tab.
   - When viewing the information section on mobile, the text is above the image.
-  - When viewing the information section on tablet, laptop or desktop the text is to the left and the image is on the right.
+  - When viewing the information section on a tablet, laptop or desktop, the text is to the left and the image is on the right.
   - The Walking Trail and Swimming Pool images were provided by Councillor Paschal Fitzmaurice.
   - The Golf Course image was taken from [here.](https://upload.wikimedia.org/wikipedia/commons/5/51/Castlerea_-_Clonalis_House_-_20190823040950.jpg)
   - The Clonalis House image was taken from [here.](https://weddingpages.ie/venues/wp-content/uploads/2017/05/clonalis-house-wedding-venue-roscommon.jpg)
@@ -155,16 +155,16 @@ Hero Image. ![Hero Image](https://res.cloudinary.com/dp9lxtk3y/image/upload/v167
 
 # Gallary Page
    - I added 21 images, they consist of the facilities in my area, Christmas Lights and Castlerea from up the sky.
-   - When viewing the gallary page on mobile the images are stacked above each other.
-   - When viewing on a tablet the images are placed 3 wide in a column.
-   - When viewing on a laptop or desktop the images are placed 4 wide in a column.
-  - All of the images on the gallary page were provided by Paschal Fitzmaurice a local councillor in my area. I was given permission to use these images for my website. 
+   - When viewing the gallary page on mobile, the images are stacked above each other.
+   - When viewing on a tablet, the images are placed 3 wide in a column.
+   - When viewing on a laptop or desktop, the images are placed 4 wide in a column.
+   - All the images on the gallary page were provided by Paschal Fitzmaurice a local councillor in my area. I was given permission to use these images for my website. 
 
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291860/README%20Images/Gallery%20Photos/gallary-mobile-view_vl9lsk.png" alt="Gallary Page Mobile View"></p>
+<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291860/README%20Images/Gallery%20Photos/gallary-mobile-view_vl9lsk.png" alt="Gallery Page Mobile View"></p>
 
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291956/README%20Images/Gallery%20Photos/gallary-tablet-view_hp0ltc.png" alt="Gallary Page Tablet View"></p>
+<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291956/README%20Images/Gallery%20Photos/gallary-tablet-view_hp0ltc.png" alt="Gallery Page Tablet View"></p>
 
-![Laptop Gallary View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674292036/README%20Images/Gallery%20Photos/gallary-laptop-view_a3rsv0.png)
+![Laptop Gallery View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674292036/README%20Images/Gallery%20Photos/gallary-laptop-view_a3rsv0.png)
 
 # Contact Page
 
@@ -178,7 +178,7 @@ Hero Image. ![Hero Image](https://res.cloudinary.com/dp9lxtk3y/image/upload/v167
   - The form has the options of First name, Surname, Email address, and Age range.
   - First name, Surname and Email address are required to complete the form.
   - The submit button at the bottom allows the user to send their details for a response.
-  - When submitted the form will take you to a form submission page in a new tab.
+  - When submitted, the form will take you to a form submission page in a new tab.
 
 <p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674292357/README%20Images/Gallery%20Photos/form-mobile-view_nzy73b.png" alt="Form View Mobile"></p>
 
@@ -187,7 +187,7 @@ Hero Image. ![Hero Image](https://res.cloudinary.com/dp9lxtk3y/image/upload/v167
 ![Laptop Form View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674292491/README%20Images/Gallery%20Photos/form-laptop-view_hnzutm.png)
 
 ## Form Submission Page
-  - When the form is submmited it will take you to this page. It gives the user the information that their request has been received and they will be contacted shortly. The nav bar allows the user to return to the home page. 
+  - When the form is submitted it will take you to this page. It gives the user the information that their request has been received and they will be contacted shortly. The nav bar allows the user to return to the home page. 
 
 <p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674326954/README%20Images/Gallery%20Photos/form-submit-mobile_ksi26a.png" alt="Form Submission Page Mobile View"></p>
 
