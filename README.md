@@ -9,7 +9,7 @@ I think the west of Ireland has so much to offer. Castlerea is an excellent exam
 
 I designed the website as a mobile view first. I then added breakpoints for different screen sizes.
 
-![Home Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674331737/README%20Images/Gallery%20Photos/home-page-responsive_tcufiz.png)
+![Home Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674603103/Website%20Images/README%20-%20Images/index-responsive_w78f50.png)
 
 # Table of Contents   
 
@@ -20,7 +20,7 @@ I designed the website as a mobile view first. I then added breakpoints for diff
   - <p><a href="#external-features">External Features</a></p>  
   - <p><a href="#features">Features</a></p>
   - <p><a href="#home-page">Home Page</a></p>
-  - <p><a href="#gallary-page">Gallery Page</a></p>
+  - <p><a href="#gallery-page">Gallery Page</a></p>
   - <p><a href="#contact-page">Contact Page</a></p>
   - <p><a href="#form-submission-page">Form Submission Page</a></p>
   - <p><a href="#manual-testing">Manual Testing</a></p>
@@ -73,11 +73,11 @@ I designed the website as a mobile view first. I then added breakpoints for diff
 ![Home Page Laptop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674601286/Website%20Images/README%20-%20Images/index-laptop-view_gqwjoa.png) 
 
 # Responsive Test
-![Home Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674331737/README%20Images/Gallery%20Photos/home-page-responsive_tcufiz.png)
-![Gallery Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674331768/README%20Images/Gallery%20Photos/gallary-page-responsive_zlonkg.png)
-![Contact Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674331797/README%20Images/Gallery%20Photos/contact-page-responsive_jg3ann.png)
-![Form Submission Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674331828/README%20Images/Gallery%20Photos/form-submission-page-responsive_qlb3cx.png)
-![404 Error Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674424523/README%20Images/Gallery%20Photos/404-page-responive_c48hzd.png)
+![Home Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674603103/Website%20Images/README%20-%20Images/index-responsive_w78f50.png)
+![Gallery Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674603103/Website%20Images/README%20-%20Images/gallery-responive_mb6vhw.png)
+![Contact Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674603103/Website%20Images/README%20-%20Images/contact-responsive_eu8iwn.png)
+![Form Submission Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674603103/Website%20Images/README%20-%20Images/form-submit-responive_n83rtq.png)
+![404 Error Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674603103/Website%20Images/README%20-%20Images/404-responsive_ytontx.png)
 
 
 # External Features
@@ -90,7 +90,7 @@ I designed the website as a mobile view first. I then added breakpoints for diff
 # Features 
 
 ## **Navigation Bar**
-  - When viewing the website on a mobile device the logo and the three pages (Home, Gallary, and Contact) are placed below each other.
+  - When viewing the website on a mobile device the logo and the three pages (Home, Gallery, and Contact) are placed below each other.
   - When viewing the page on a tablet, a laptop, or a desktop the Logo is placed in the center of the top of the page. The 3 pages are placed under the logo in a row.
   - The logo is the name of the town I based the project on.
   - A line will be shown under the page to indicate what page you are on.
@@ -98,11 +98,11 @@ I designed the website as a mobile view first. I then added breakpoints for diff
   - When hovered over each, of the page options will change colour. The background colour turns to yellow and the text turns to red.
 
 
-![Navigation Bar for Mobile](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674289845/README%20Images/Gallery%20Photos/nav-mobile_cldv5p.png)
+![Navigation Bar for Mobile](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674603478/Website%20Images/README%20-%20Images/nav-mobile_hcd19j.png)
 
- ![Navigation Bar for Tablet, Desktop and Laptop](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674289804/README%20Images/Gallery%20Photos/nav-other_uk5sn7.png)
+ ![Navigation Bar for Tablet, Desktop and Laptop](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674603478/Website%20Images/README%20-%20Images/nav-laptop_xfqeqi.png)
 
-  ![Hovered over image](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674285348/highlight-background_rtehst.png)
+  ![Hovered over image](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674603478/Website%20Images/README%20-%20Images/nav-hover_vy2pmd.png)
 
   ## **Footer**
   - The footer has a background image with 4 font awesome - icons.
@@ -122,7 +122,7 @@ I designed the website as a mobile view first. I then added breakpoints for diff
   - The Hero image is animated, which I got inspiration from the Love Running Project.
   - I got the image from [here.](https://assets-eu-01.kc-usercontent.com/aa24ba70-9a12-01ae-259b-7ef588a0b2ef/a80108c7-1a1a-4fe2-8f8b-d4f0e9699535/header-castlerea-county-roscommon.jpg?w=2304&q=66&h=672&fit=crop&fm=jpg)
 
-![Hero Image](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674290748/README%20Images/Gallery%20Photos/hero-image_isav5j.png)
+![Hero Image](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674603612/Website%20Images/README%20-%20Images/hero-image-readme_nmhkyw.png)
 
 
 ## **Information Section**
@@ -140,18 +140,16 @@ I designed the website as a mobile view first. I then added breakpoints for diff
  ![Information Section Tablet,Laptop and Desktop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291168/README%20Images/Gallery%20Photos/information-section-other_na8iej.png)
 
 
-# Gallary Page
+# Gallery Page
    - I added 21 images, they consist of the facilities in my area, Christmas Lights and Castlerea from up the sky.
-   - When viewing the gallary page on mobile, the images are stacked above each other.
+   - When viewing the gallery page on mobile, the images are stacked above each other.
    - When viewing on a tablet, the images are placed 3 wide in a column.
    - When viewing on a laptop or desktop, the images are placed 4 wide in a column.
-   - All the images on the gallary page were provided by Paschal Fitzmaurice a local councillor in my area. I was given permission to use these images for my website. 
+   - All the images on the gallery page were provided by Paschal Fitzmaurice a local councillor in my area. I was given permission to use these images for my website. 
 
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291860/README%20Images/Gallery%20Photos/gallary-mobile-view_vl9lsk.png" alt="Gallery Page Mobile View"></p>
+<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674603825/Website%20Images/README%20-%20Images/gallery-mobile_fvb5ur.png" alt="Gallery Page Mobile View"></p>
 
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291956/README%20Images/Gallery%20Photos/gallary-tablet-view_hp0ltc.png" alt="Gallery Page Tablet View"></p>
-
-![Laptop Gallery View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674292036/README%20Images/Gallery%20Photos/gallary-laptop-view_a3rsv0.png)
+![Laptop Gallery View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674603826/Website%20Images/README%20-%20Images/gallery-laptop_fpekty.png)
 
 # Contact Page
 
@@ -167,20 +165,18 @@ I designed the website as a mobile view first. I then added breakpoints for diff
   - The submit button at the bottom allows the user to send their details for a response.
   - When submitted, the form will take you to a form submission page in a new tab.
 
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674292357/README%20Images/Gallery%20Photos/form-mobile-view_nzy73b.png" alt="Form View Mobile"></p>
+<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674603981/Website%20Images/README%20-%20Images/contact-mobile_a0qwfn.png" alt="Form View Mobile"></p>
 
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674292429/README%20Images/Gallery%20Photos/form-tablet-view_eukfiw.png" alt="Form View Tablet></p>
-
-![Laptop Form View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674292491/README%20Images/Gallery%20Photos/form-laptop-view_hnzutm.png)
+![Laptop Form View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674603981/Website%20Images/README%20-%20Images/contact-laptop_prmr5w.png)
 
 ## Form Submission Page
   - When the form is submitted it will take you to this page. It gives the user the information that their request has been received and they will be contacted shortly. The nav bar allows the user to return to the home page. 
   - Check it out [here.](https://clivec99.github.io/p1-castlerea/contact-form.html)
   - The background image was taken from [here.](https://www.buildingsofireland.ie/building-images/niah/images/survey_specific/800/31814014_1.jpg)
 
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674326954/README%20Images/Gallery%20Photos/form-submit-mobile_ksi26a.png" alt="Form Submission Page Mobile View"></p>
+<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674604189/Website%20Images/README%20-%20Images/form-submission-mobile_vasdaz.png" alt="Form Submission Page Mobile View"></p>
 
-![Laptop Form Submission Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674284918/form-submission_mdpwy6.png)
+![Laptop Form Submission Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674604189/Website%20Images/README%20-%20Images/form-submission-laptop_oveggj.png)
 
 # Manual Testing
   - From the start, the website was tested in different browsers (Chrome, Edge and Opera), While using dev tools. This was to make sure everything would run smoothly.
@@ -222,8 +218,8 @@ I designed the website as a mobile view first. I then added breakpoints for diff
  
    
 
-  - **Gallary Page** 
-    - I was having issues with the images on the gallary page having space at the bottom of the page.
+  - **Gallery Page** 
+    - I was having issues with the images on the gallery page having space at the bottom of the page.
     - I solved this by changing the height of some of the images at different breakpoints.
 
   - **Contact Form**
@@ -264,7 +260,7 @@ I designed the website as a mobile view first. I then added breakpoints for diff
   - I created a folder and uploaded my images.
   - I copied the URL and placed it into my code.
 
-    ![Cloudinary](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673879894/README%20Images/Gallery%20Photos/cloudinary-example_dcrf5f.png)
+    ![Cloudinary](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674604328/Website%20Images/README%20-%20Images/cloudinary-readme_vm3rqu.png)
 
 
     ## **404 Error  Page**
@@ -275,13 +271,11 @@ I designed the website as a mobile view first. I then added breakpoints for diff
   - The background image was taken from [here.](https://upload.wikimedia.org/wikipedia/commons/8/8c/087%2C_Castlrea.jpg)
   - Check out the [404 Error Page.](https://clivec99.github.io/p1-castlerea/404.html)
 
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674425252/README%20Images/Gallery%20Photos/404-error-page-mobile_vxh1vl.png" alt="404 Error Page Mobile View"></p>
+<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674604469/Website%20Images/README%20-%20Images/404-mobile_amxz9p.png" alt="404 Error Page Mobile View"></p>
 
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674425253/README%20Images/Gallery%20Photos/404-error-page-tablet_wocltp.png" alt="404 Error Page Table View"></p>
+![404 Error Page Laptop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674604469/Website%20Images/README%20-%20Images/404-laptop_h1cfrt.png)
 
-![404 Error Page Laptop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674425252/README%20Images/Gallery%20Photos/404-error-page-laptop_o3dzj4.png)
-![404 Error Page Hovering](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674425253/README%20Images/Gallery%20Photos/404-error-page-hover_gxlxnw.png)
-
+<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674604469/Website%20Images/README%20-%20Images/404-hover_uy34zv.png" alt="404 Error Page Hovering"></p>
 
 
   # Credits
@@ -304,4 +298,4 @@ I designed the website as a mobile view first. I then added breakpoints for diff
 
   ## **Other**
   - This project would not be possible without the help from my mentor.
-  - Councillor Paschal Fitzmaurice provided me with images for the Gallary page, The Swimming Pool and the Walking Trail on the home page.
+  - Councillor Paschal Fitzmaurice provided me with images for the Gallery page, The Swimming Pool and the Walking Trail on the home page.
