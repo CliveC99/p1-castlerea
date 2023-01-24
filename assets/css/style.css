@@ -64,7 +64,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     height: 600px;
-    background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673640735/Website%20images/demense_sxam72.jpg) no-repeat center center;
+    background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674589665/Website%20Images/Home%20Page/castlerea-hero-image_nlh2kv.webp) no-repeat center center;
 
 
     /*Animation*/
@@ -156,14 +156,14 @@ body {
 
 
 .golf-club {
-    content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673798024/Website%20images/castlerea-golf-club_ydhixs.png);
+    content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674589666/Website%20Images/Home%20Page/castlerea-golf-club_ta0xar.webp);
     height: 100%;
     width: 100%;
     margin-top: 5%;
 }
 
 .clonalis-house {
-    content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673800153/Website%20images/clonalis-house_xzis4q.jpg);
+    content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674589666/Website%20Images/Home%20Page/clonalis-house_ogyrdy.webp);
     height: 100%;
     width: 100%;
     margin-top: 5%;
@@ -171,14 +171,14 @@ body {
 }
 
 .walking-trails {
-    content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673798777/Website%20images/castlerea-trails_j1unju.jpg);
+    content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674589665/Website%20Images/Home%20Page/castlerea-trails_zkomon.webp);
     height: 100%;
     width: 100%;
     margin-top: 5%;
 }
 
 .swimming-pool {
-    content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673798846/Website%20images/castlerea-swimming-pool3_drs0ri.jpg);
+    content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674589665/Website%20Images/Home%20Page/castlerea-swimming-pool3_stsgzs.webp);
     height: 100%;
     width: 100%;
     margin-top: 5%;
@@ -229,7 +229,7 @@ body {
 
 /************************************************** FORM *************************************************************************/
 #contact-form {
-    background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673639697/Website%20images/castlerea-hero-image_sgkrin.jpg);
+    background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674589727/Website%20Images/Contact%20Page/castlerea-contact-img_t3ctpy.webp);
     background-size: cover;
     background-repeat: no-repeat;
     height: 700px;
@@ -293,7 +293,7 @@ body {
 
 /*********************************************** FORM SUBMISSION PAGE ***********************************************************/
 .thanks-img {
-    background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674236687/castlerea-demense-form-submit_cb944h.jpg);
+    background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674589754/Website%20Images/Contact%20Form%20Page/castlerea-demense-form-submit_skvesl.webp);
     background-size: cover;
     background-repeat: no-repeat;
     height: 700px;
@@ -319,7 +319,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     height: 600px;
-    background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674435648/README%20Images/Gallery%20Photos/404-image_cmvnyz.jpg) no-repeat center center;
+    background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674589764/Website%20Images/404%20Error%20Page/404-image_wjtnof.webp) no-repeat center center;
 }
 
 
