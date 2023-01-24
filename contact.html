@@ -16,63 +16,73 @@
 </head>
 
 <body>
-    <!--------------------------------- LOGO + NAV LINKS -------------------------------------------------------------->
-    <h1 id="logo"><a href="index.html" class="logo-home">Castlerea</a></h1>
-    <nav>
-        <ul class="nav">
-            <li>
-                <a href="index.html">Home</a>
-            </li>
-            <li><a href="gallary.html">Gallary</a></li>
-            <li>
-                <a href="contact.html" class="active">Contact</a>
-            </li>
-        </ul>
-    </nav>
+
+    <header>
+        <!--------------------------------- LOGO + NAV LINKS -------------------------------------------------------------->
+        <h1 id="logo"><a href="index.html" class="logo-home">Castlerea</a></h1>
+        <nav>
+            <ul class="nav">
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+                <li><a href="gallary.html">Gallary</a></li>
+                <li>
+                    <a href="contact.html" class="active">Contact</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
 
     <!----------------------------------------- CONTACT FORM SECTION ---------------------------------------------------------->
-    <section id="contact-form">
-        <form method="GET" target="_blank" action="./contact-form.html" class="box-form">
-            <h2 class="form-heading">Here you can contact Castlerea Town Team!</h2>
 
-            <label for="fname" class="form-text">First Name:</label>
-            <input id="fname" type="text" name="fname" class="text-input" required>
+    <main>
+        <section id="contact-form">
+            <form method="GET" target="_blank" action="./contact-form.html" class="box-form">
+                <h2 class="form-heading">Here you can contact Castlerea Town Team!</h2>
 
-            <label for="lname" class="form-text">Surname:</label>
-            <input id="lname" type="text" name="lname" class="text-input" required>
+                <label for="fname" class="form-text">First Name:</label>
+                <input id="fname" type="text" name="fname" class="text-input" required>
 
-            <label for="email" class="form-text">Email Address:</label>
-            <input id="email" type="email" name="email" class="text-input" required>
+                <label for="lname" class="form-text">Surname:</label>
+                <input id="lname" type="text" name="lname" class="text-input" required>
 
-            <label for="age" class="age-range">Age Range</label>
-            <select id="age" name="age" required>
-                <option value="">Select an age</option>
-                <option value="Under-18">Under 18</option>
-                <option value="18-29">18-29</option>
-                <option value="30-39">30-39</option>
-                <option value="40-49">40-49</option>
-                <option value="50-59">50-59</option>
-                <option value="60+">60+</option>
-            </select>
+                <label for="email" class="form-text">Email Address:</label>
+                <input id="email" type="email" name="email" class="text-input" required>
 
-            <input id="submit" type="submit" name="submit" class="text-input">
-        </form>
-    </section>
+                <label for="age" class="age-range">Age Range</label>
+                <select id="age" name="age" required>
+                    <option value="">Select an age</option>
+                    <option value="Under-18">Under 18</option>
+                    <option value="18-29">18-29</option>
+                    <option value="30-39">30-39</option>
+                    <option value="40-49">40-49</option>
+                    <option value="50-59">50-59</option>
+                    <option value="60+">60+</option>
+                </select>
+
+                <input id="submit" type="submit" name="submit" class="text-input">
+            </form>
+        </section>
+    </main>
 
     <!----------------------------------------- FOOTER --------------------------------------------------------------------->
     <footer>
         <ul class="social-icons">
             <li>
-                <a href="https://www.facebook.com/" target="_blank"><span class="sr-only">Facebook</span><i class="fab fa-facebook"></i></a>
+                <a href="https://www.facebook.com/" target="_blank"><span class="sr-only">Facebook</span><i
+                        class="fab fa-facebook"></i></a>
             </li>
             <li>
-                <a href="https://www.instagram.com/" target="_blank"><span class="sr-only">Instagram</span><i class="fab fa-instagram-square"></i></a>
+                <a href="https://www.instagram.com/" target="_blank"><span class="sr-only">Instagram</span><i
+                        class="fab fa-instagram-square"></i></a>
             </li>
             <li>
-                <a href="https://twitter.com/" target="_blank"><span class="sr-only">Twitter</span><i class="fab fa-twitter"></i></a>
+                <a href="https://twitter.com/" target="_blank"><span class="sr-only">Twitter</span><i
+                        class="fab fa-twitter"></i></a>
             </li>
             <li>
-                <a href="https://www.youtube.com/" target="_blank"><span class="sr-only">Youtube</span><i class="fab fa-youtube"></i></a>
+                <a href="https://www.youtube.com/" target="_blank"><span class="sr-only">Youtube</span><i
+                        class="fab fa-youtube"></i></a>
             </li>
         </ul>
     </footer>
