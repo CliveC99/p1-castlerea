@@ -55,6 +55,7 @@ I designed the website as a mobile view first. I then added breakpoints for diff
  - I used "#BAC1C1" for the background colour of the website.
  - I used "#800000" for the text colour hovering effect.
  - I used "#008000" for the background colour of the hovering effect.
+ - I used these colours because my local GAA teams (Castlerea St. Kevins) colours are green and maroon. (Castlerea )
 
 ![Colours Used](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674338476/README%20Images/Gallery%20Photos/hex-selection_pu5h0p.png) 
 
@@ -64,26 +65,12 @@ I designed the website as a mobile view first. I then added breakpoints for diff
  - I used Sans Serif as a backup font if the browser did not support it.
 
 # WireFrames 
+- Shown below is the Home Page wireframes.
+- Click [here](https://docs.google.com/presentation/d/e/2PACX-1vSVxI0jerSNyUCxenrkuWfhQYUkgfg34u5XC3C3SKADDZWYvAsEUcOi9NShuul8R8KONLFhAIfQGEbm/pub?start=true&loop=false&delayms=5000) to see the other pages wireframes. (Google Slides) 
 
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674339531/README%20Images/Gallery%20Photos/index-mobile-view_vnqt7j.png" alt="Home Page Mobile View"></p>
+<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674601175/Website%20Images/README%20-%20Images/index-mobile-view_csrusa.png" alt="Home Page Mobile View"></p>
 
-![Home Page Laptop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883228/README%20Images/Gallery%20Photos/index-laptop-view_xbuhs9.png) 
-
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883227/README%20Images/Gallery%20Photos/gallary-mobile-view_voytqr.png" alt="Gallery Page Mobile View"></p>
-
-![Gallery Page Laptop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883227/README%20Images/Gallery%20Photos/gallary-laptop-view_bbyhqz.png) 
-
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883228/README%20Images/Gallery%20Photos/contact-mobile-view_opau5z.png" alt="Contact Page Mboile View"></p>
-
-![Contact Page Laptop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1673883228/README%20Images/Gallery%20Photos/contact-laptop-view_gqrdoj.png)
-
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674282928/contact-form-mobile_bvw7c3.png" alt="Form Submission Page Mobile View"></p>
-
-![Form Submission Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674282928/contact-form-desktop_fclptp.png)
-
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674430044/README%20Images/Gallery%20Photos/404-mobile-view_tlp8kk.png" alt="404 Error Page Mobile View"></p>
-
-![404 Error Page Laptop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674430044/README%20Images/Gallery%20Photos/404-laptop-view_jxvi5a.png)
+![Home Page Laptop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674601286/Website%20Images/README%20-%20Images/index-laptop-view_gqwjoa.png) 
 
 # Responsive Test
 ![Home Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674331737/README%20Images/Gallery%20Photos/home-page-responsive_tcufiz.png)
