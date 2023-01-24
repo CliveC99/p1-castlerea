@@ -1,5 +1,3 @@
-
-
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 * {
@@ -75,7 +73,7 @@ body {
     animation-fill-mode: forwards;
 }
 
-/* Sets the animation level */
+/************************* SETS THE ANIMATION LVEL (Inspired by Love Running) ********************/
 @keyframes background-zoom {
     from {
         transform: scale(0.97);
@@ -188,7 +186,7 @@ body {
 }
 
 
-/* footer */
+/********************************************** FOOTER *************************************************************************/
 
 .social-icons {
     display: flex;
@@ -214,7 +212,7 @@ body {
     box-shadow: inset 200px 0 0 0 maroon;
 }
 
-/*********************************************************GALLARY*****************************************************************/
+/******************************************************** GALLARY ****************************************************************/
 #pictures {
     clear: both;
     line-height: 0;
@@ -321,7 +319,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     height: 600px;
-background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674435648/README%20Images/Gallery%20Photos/404-image_cmvnyz.jpg) no-repeat center center;
+    background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674435648/README%20Images/Gallery%20Photos/404-image_cmvnyz.jpg) no-repeat center center;
 }
 
 
@@ -342,14 +340,35 @@ background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674435648/RE
     opacity: 0.8;
 }
 
-.error-text > a {
+.error-text>a {
     color: #008000;
     font-size: 1.5em;
 }
 
-.error-text a:hover{
+.error-text a:hover {
     color: #800000;
 }
+
+/****************************************** MEDIUM MOBILE BREAKPOINT ******************************************************************************/
+
+@media only screen and (min-width: 376px) {
+
+    /***************** CONTACT PAGE ***************/
+    .form-heading {
+        margin-left: 3%;
+        font-size: 1.6em;
+    }
+
+    .text-input {
+        margin-left: 28%;
+    }
+
+    .age-range,
+    #age {
+        margin-left: 38%;
+    }
+}
+
 
 /************************************************ Large Mobile *******************************************************************/
 @media only screen and (min-width: 545px) {
@@ -372,29 +391,10 @@ background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674435648/RE
 }
 
 
-
-/****************************************** MEDIUM MOBILE BREAKPOINT ******************************************************************************/
-
-@media only screen and (min-width: 376px) {
-
-    /***************** CONTACT PAGE ***************/
-    .form-heading {
-        margin-left: 3%;
-        font-size: 1.6em;
-    }
-
-    .text-input {
-        margin-left: 28%;
-    }
-
-    .age-range,
-    #age {
-        margin-left: 38%;
-    }
-}
-
 /************************************************** SMALL TABLET BREAKPOINT***********************************************************/
 @media only screen and (min-width: 545px) {
+
+    /********************** GALLARY PAGE ***************/
     .church-img {
         height: 16% !important;
     }
@@ -402,6 +402,8 @@ background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674435648/RE
     .lights-img {
         height: 14.3% !important;
     }
+
+    /********************** CONTACT PAGE ****************/
 
     .submit-text {
         margin-left: 0.7%;
@@ -548,7 +550,7 @@ background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674435648/RE
         font-size: 3em;
         left: 10%;
         top: 32%;
- }
+    }
 
 }
 
@@ -559,7 +561,7 @@ background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674435648/RE
     .image-text {
         left: 2%;
     }
- 
+
 }
 
 /************************************************* LAPTOP BREAKPOINT **************************************************************/
@@ -570,10 +572,11 @@ background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674435648/RE
         left: 85%;
         top: 75%;
     }
+
     .image-text h1,
-.image-text h2 {
-   margin-left: 1%;
-}
+    .image-text h2 {
+        margin-left: 1%;
+    }
 
 
     #logo {
@@ -650,11 +653,11 @@ background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674435648/RE
         margin-top: 1%;
     }
 
-    /****************** 404 ERROR PAGE *****************/    
+    /****************** 404 ERROR PAGE *****************/
     .error-text {
         left: 25%;
         top: 25%;
- }
+    }
 }
 
 /*********************************************** DESKTOP BREAKPOINT ***************************************************************/
@@ -734,7 +737,7 @@ background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674435648/RE
 
     /*********************************** 404 ERROR PAGE ***********************************/
     .error-text {
-       top: 16%;
-       font-size: 4em;
+        top: 16%;
+        font-size: 4em;
     }
 }
