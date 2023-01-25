@@ -55,7 +55,7 @@ I designed the website as a mobile view first. I then added breakpoints for diff
  - I used "#BAC1C1" for the background colour of the website.
  - I used "#800000" for the text colour hovering effect.
  - I used "#008000" for the background colour of the hovering effect.
- - I used these colours because my local GAA teams (Castlerea St. Kevins) colours are green and maroon. (Castlerea )
+ - I used these colours because my local GAA teams (Castlerea St. Kevins) colours are green and maroon.
 
 ![Colours Used](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674338476/README%20Images/Gallery%20Photos/hex-selection_pu5h0p.png) 
 
