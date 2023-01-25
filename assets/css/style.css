@@ -64,7 +64,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     height: 600px;
-    background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674589665/Website%20Images/Home%20Page/castlerea-hero-image_nlh2kv.webp) no-repeat center center;
+    background: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674654251/Website%20Images/Home%20Page/castlerea-hero-image_msg5xa.webp) no-repeat center center;
 
 
     /*Animation*/
@@ -160,14 +160,14 @@ body {
 
 
 .golf-club {
-    content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674589666/Website%20Images/Home%20Page/castlerea-golf-club_ta0xar.webp);
+    content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674654343/Website%20Images/Home%20Page/castlerea-golf-club-compressed_a6nw9i.webp);
     height: 100%;
     width: 100%;
     margin-top: 5%;
 }
 
 .clonalis-house {
-    content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674589666/Website%20Images/Home%20Page/clonalis-house_ogyrdy.webp);
+    content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674654379/Website%20Images/Home%20Page/clonalis-house-compressed_nnjgjy.webp);
     height: 100%;
     width: 100%;
     margin-top: 5%;
@@ -175,14 +175,14 @@ body {
 }
 
 .walking-trails {
-    content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674589665/Website%20Images/Home%20Page/castlerea-trails_zkomon.webp);
+    content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674654407/Website%20Images/Home%20Page/castlerea-trails_yrooyq.webp);
     height: 100%;
     width: 100%;
     margin-top: 5%;
 }
 
 .swimming-pool {
-    content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674589665/Website%20Images/Home%20Page/castlerea-swimming-pool3_stsgzs.webp);
+    content: url(https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674654439/Website%20Images/Home%20Page/castlerea-swimming-pool3_xaqcfw.webp);
     height: 100%;
     width: 100%;
     margin-top: 5%;
