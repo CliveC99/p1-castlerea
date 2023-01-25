@@ -357,7 +357,7 @@ body {
 
 @media only screen and (min-width: 376px) {
 
-    /***************** CONTACT PAGE ***************/
+    /***************** CONTACT PAGE  - Moving the form content ***************/
     .form-heading {
         margin-left: 3%;
         font-size: 1.6em;
@@ -377,17 +377,17 @@ body {
 /************************************************ Large Mobile *******************************************************************/
 @media only screen and (min-width: 545px) {
 
-    /***************** CONTACT PAGE ***************/
+    /***************** CONTACT PAGE - Moving the form ***************/
     .box-form {
         left: 15%;
     }
 
-    /**************** GALLERY PAGE **************/
+    /**************** GALLERY PAGE - The images will now be in a column of 2 **************/
     #pictures {
         column-count: 2;
     }
 
-    /******************** 404 ERROR PAGE ************/
+    /******************** 404 ERROR PAGE - Changing the text size ************/
     .error-text {
         font-size: 2.5em;
     }
@@ -398,7 +398,7 @@ body {
 /************************************************** SMALL TABLET BREAKPOINT***********************************************************/
 @media only screen and (min-width: 545px) {
 
-    /********************** GALLERY PAGE ***************/
+    /********************** GALLERY PAGE - Changing the height of the pictures ***************/
     .church-img {
         height: 16% !important;
     }
@@ -407,7 +407,7 @@ body {
         height: 14.3% !important;
     }
 
-    /********************** CONTACT PAGE ****************/
+    /********************** CONTACT PAGE - Moving the form and image****************/
 
     .submit-text {
         margin-left: 0.7%;
@@ -422,7 +422,7 @@ body {
 /*************************************************** TABLET BREAKPOINT ***********************************************************/
 @media only screen and (min-width: 768px) {
 
-    /***************** HOME PAGE ***************/
+    /***************** HOME PAGE - Moving the text, logo, nav, info and images positioning ***************/
     .image-text {
         font-size: 0.7em;
         left: 86%;
@@ -503,7 +503,7 @@ body {
         margin-top: 5%;
     }
 
-    /***************** GALLERY PAGE ***************/
+    /***************** GALLERY PAGE - Making the column count 3 wide, moving the height of the images ***************/
     #pictures {
         column-count: 3;
     }
@@ -521,7 +521,7 @@ body {
     }
 
 
-    /***************** CONTACT PAGE ***************/
+    /***************** CONTACT PAGE - Moving the form and its content ***************/
     .form-heading {
         padding-top: 10%;
     }
@@ -539,7 +539,7 @@ body {
         left: 25%;
     }
 
-    /****************** FORM SUBMIT PAGE ***************/
+    /****************** FORM SUBMIT PAGE - Moving the text and images position ***************/
     .submit-text {
         font-size: 2em;
         top: 50%;
@@ -549,7 +549,7 @@ body {
         margin-top: 1%;
     }
 
-    /****************** 404 ERROR PAGE *****************/
+    /****************** 404 ERROR PAGE - Changing the font size and position *****************/
     .error-text {
         font-size: 3em;
         left: 10%;
@@ -561,7 +561,7 @@ body {
 /************************************************* Large Tablets *****************************************************************/
 @media only screen and (max-width: 1164px) {
 
-    /***************** HOME PAGE ***************/
+    /***************** HOME PAGE - Moving the text position ***************/
     .image-text {
         left: 2%;
     }
@@ -571,7 +571,7 @@ body {
 /************************************************* LAPTOP BREAKPOINT **************************************************************/
 @media only screen and (min-width: 1280px) {
 
-    /***************** HOME PAGE ***************/
+    /***************** HOME PAGE - Moving the text, logo, nav and images position ***************/
     .image-text {
         left: 85%;
         top: 75%;
@@ -615,7 +615,7 @@ body {
         margin-bottom: 1%;
     }
 
-    /***************** GALLERY PAGE ***************/
+    /***************** GALLERY PAGE - Make the image column count 4 and moving the height of the images  ***************/
     #pictures {
         column-count: 4;
     }
@@ -637,7 +637,7 @@ body {
     }
 
 
-    /***************** CONTACT PAGE ***************/
+    /***************** CONTACT PAGE - Adding a bigger submit button and moving the form ***************/
     #submit {
         padding: 0% 3% 0% 3%;
     }
@@ -648,7 +648,7 @@ body {
     }
 
 
-    /******************************* FORM SUBMIT PAGE *************************************/
+    /********************** FORM SUBMIT PAGE - Changing the font size and image position ****************************/
     .submit-text {
         font-size: 2.5em;
     }
@@ -657,7 +657,7 @@ body {
         margin-top: 1%;
     }
 
-    /****************** 404 ERROR PAGE *****************/
+    /****************** 404 ERROR PAGE - Changing the text position *****************/
     .error-text {
         left: 25%;
         top: 25%;
@@ -667,7 +667,7 @@ body {
 /*********************************************** DESKTOP BREAKPOINT ***************************************************************/
 @media only screen and (min-width: 1600px) {
 
-    /***************** HOME PAGE ***************/
+    /***************** HOME PAGE - Moving the text, logo, nav, info and images position ***************/
     .image-text {
         left: 88%;
         top: 57%;
@@ -732,14 +732,14 @@ body {
         margin-bottom: 5%;
     }
 
-    /********************************** FORM SUBMISSION PAGE *****************************/
+    /********************************** FORM SUBMISSION PAGE - Mobing the text contents position *****************************/
     .submit-text {
         top: 25%;
         left: -2%;
         font-size: 2.5em;
     }
 
-    /*********************************** 404 ERROR PAGE ***********************************/
+    /*********************************** 404 ERROR PAGE - Changing the font size and the position ***********************************/
     .error-text {
         top: 16%;
         font-size: 4em;
