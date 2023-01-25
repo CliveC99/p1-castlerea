@@ -210,6 +210,17 @@ I designed the website as a mobile view first. I then added breakpoints for diff
   8. Select "/ root".
   9. Select save.
   10. Within a couple of minutes, your site will be deployed.
+  11. Deployed website [here.](https://clivec99.github.io/p1-castlerea/)
+
+  # **Git Commits**
+   - I structured my git commits whenever I would add, change or update code.
+   - I did this by using:
+   1. git status
+   2. git add (file name)
+   3. git commit -m (message)
+   4. git push.
+  ![Git Commits](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674605805/Website%20Images/README%20-%20Images/git-commits_mz3qdy.png)
+
 
 
   # Bugs and Fixes
@@ -302,5 +313,5 @@ I designed the website as a mobile view first. I then added breakpoints for diff
   - I used [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/overview/) to debug the website and view different breakpoints.
 
   ## **Other**
-  - This project would not be possible without the help from my mentor.
+  - This project would not be possible without the help of my mentor.
   - Councillor Paschal Fitzmaurice provided me with images for the Gallery page, The Swimming Pool and the Walking Trail on the home page.
