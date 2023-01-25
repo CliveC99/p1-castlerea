@@ -127,6 +127,7 @@ I designed the website as a mobile view first. I then added breakpoints for diff
 
 ## **Information Section**
   - The text gives information about the location and population.
+  - The link for the external site is changed to green. This matches the rest of the link colours.
   - I picked Castlerea Golf Course, Clonalis House, The walking trails and Castlerea Swimming Pool because they are a massive part of our town.
   - There are pieces of information about Castlerea with links to the external site for each facility, which opens in a new tab.
   - When viewing the information section on mobile, the text is above the image.
@@ -135,9 +136,9 @@ I designed the website as a mobile view first. I then added breakpoints for diff
   - The Golf Course image was taken from [here.](https://upload.wikimedia.org/wikipedia/commons/5/51/Castlerea_-_Clonalis_House_-_20190823040950.jpg)
   - The Clonalis House image was taken from [here.](https://weddingpages.ie/venues/wp-content/uploads/2017/05/clonalis-house-wedding-venue-roscommon.jpg)
 
-<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291090/README%20Images/Gallery%20Photos/information-section-mobile_k9cnjk.png" alt="Information Section Laptop View"></p>
+<p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674605420/Website%20Images/README%20-%20Images/information-mobile_yk4i5i.png" alt="Information Section Mobile View"></p>
 
- ![Information Section Tablet,Laptop and Desktop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674291168/README%20Images/Gallery%20Photos/information-section-other_na8iej.png)
+ ![Information Section Tablet,Laptop and Desktop View](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674605421/Website%20Images/README%20-%20Images/information-laptop_o6nyqo.png)
 
 
 # Gallery Page
@@ -241,6 +242,10 @@ I designed the website as a mobile view first. I then added breakpoints for diff
   - **General Bugs/Issues** 
      - The FavIcon was being displayed on my website when I would host it through Gitpod, but not through Github pages.
      - The reason for this was: I was missing the "`.`" before the "`/`" when I was linking the icons. The FavIcons were not placed in the assets folder. Once I changed this, It was working.
+     - I used the American spelling "Gallary".
+     - I changed it to "Gallery".
+     - I used ".jpg" images in the begining.
+     - I noticed this was affecting my lighthouse performance report. I changed the images to ".webp".
 
 
 
