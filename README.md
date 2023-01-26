@@ -32,6 +32,7 @@ Check out Castlerea [here.](https://clivec99.github.io/p1-castlerea/index.html)
   - <p><a href="#deployment">Deployment</a></p>
   - <p><a href="#bugs-and-fixes">Bugs and Fixes</a></p>
   - <p><a href="#added-items">Added Items</a></p>
+  - <p><a href="#tools-used">Tools Used</a></p>
   - <p><a href="#credits">Credits</a></p>
  
 
@@ -309,6 +310,15 @@ Check out Castlerea [here.](https://clivec99.github.io/p1-castlerea/index.html)
 
 <p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674604469/Website%20Images/README%20-%20Images/404-hover_uy34zv.png" alt="404 Error Page Hovering"></p>
 
+# **Tools Used**
+  - I used [Am I Responsive?](https://ui.dev/amiresponsive) to check was the website responsive on devices.
+  - I used [Balsamiq](https://balsamiq.com/) for creating the wireframes.
+  - I used [Google Fonts](https://fonts.google.com/) for the font.
+  - I used [Font Awesome](https://fontawesome.com/) for the social icons.
+  - I used [Favicon](https://favicon.io/) to create the tab icon.
+  - I used [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/overview/) to debug the website and view different breakpoints.
+
+
 
   # Credits
   ## **Media**
@@ -319,14 +329,6 @@ Check out Castlerea [here.](https://clivec99.github.io/p1-castlerea/index.html)
   - The Form background image was taken from [here.](https://www.discoversuckvalleyway.ie/admin/uploads/walks/resized_castlerea-trails-suck-valley-way.jpg)
   - The Form Submission image was taken from [here.](https://www.buildingsofireland.ie/building-images/niah/images/survey_specific/800/31814014_1.jpg)
   - The 404 Error Page image was taken from [here.](https://upload.wikimedia.org/wikipedia/commons/8/8c/087%2C_Castlrea.jpg)
-
- ## **Tools Used**
-  - I used [Am I Responsive?](https://ui.dev/amiresponsive) to check was the website responsive on devices.
-  - I used [Balsamiq](https://balsamiq.com/) for creating the wireframes.
-  - I used [Google Fonts](https://fonts.google.com/) for the font.
-  - I used [Font Awesome](https://fontawesome.com/) for the social icons.
-  - I used [Favicon](https://favicon.io/) to create the tab icon.
-  - I used [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/overview/) to debug the website and view different breakpoints.
 
   ## **Other**
   - This project would not be possible without the help of my mentor.
