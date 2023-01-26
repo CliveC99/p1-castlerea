@@ -9,6 +9,8 @@ I think the west of Ireland has so much to offer. Castlerea is an excellent exam
 
 I designed the website as a mobile view first. I then added breakpoints for different screen sizes.
 
+Check out Castlerea [here.](https://clivec99.github.io/p1-castlerea/index.html)
+
 ![Home Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674603103/Website%20Images/README%20-%20Images/index-responsive_w78f50.png)
 
 # Table of Contents   
@@ -144,7 +146,7 @@ I designed the website as a mobile view first. I then added breakpoints for diff
 
 
 # Gallery Page
-   - I added 21 images, they consist of the facilities in my area, Christmas Lights and Castlerea from up the sky.
+   - I added 21 images, they consist of the facilities in my area, Christmas Lights and Castlerea from up in the sky.
    - When viewing the gallery page on mobile, the images are stacked above each other.
    - When viewing on a tablet, the images are placed 3 wide in a column.
    - When viewing on a laptop or desktop, the images are placed 4 wide in a column.
@@ -161,10 +163,10 @@ I designed the website as a mobile view first. I then added breakpoints for diff
 - The background image was taken from [here.](https://www.discoversuckvalleyway.ie/admin/uploads/walks/resized_castlerea-trails-suck-valley-way.jpg)
 
 ## **Form**
-  - The form section is placed in the middle of the page, above the image.
+  - The form section is placed in the middle of the page, over the image.
   - The contact section of the website lets the user input information for a contact response.
   - The form has the options of First name, Surname, Email address, and Age range.
-  - First name, Surname and Email address are required to complete the form.
+  - All the fields are required to be filled out before submitting the form.
   - The submit button at the bottom allows the user to send their details for a response.
   - When submitted, the form will take you to a form submission page in a new tab.
 
@@ -184,7 +186,7 @@ I designed the website as a mobile view first. I then added breakpoints for diff
 # Manual Testing
   - From the start, the website was tested in different browsers (Chrome, Edge and Opera), While using dev tools. This was to make sure everything would run smoothly.
   - I was constantly testing the website on my phone to make sure everything looked good and worked as it should. (Xiaomi Mi 10T Pro)
-  - I tested that the text was easily readable using the text contrast feature in dev tools.
+  - I tested the text was easily readable using the text contrast feature in dev tools.
   - I tested the external and internal links to make sure they were working.
   - I tested the form to make sure the fields were required and it was submitting correctly.
   - The smallest screen size is recommended at 320px x 745px.
@@ -195,15 +197,11 @@ I designed the website as a mobile view first. I then added breakpoints for diff
 
   - At an earlier stage I has some warnings in my HTML code so I changed my code and now there is no warnings.
   - Below are the results from the W3S HTML Checker and W3S CSS Checker for the Home Page and CSS file.
-  - Click [here](https://docs.google.com/presentation/d/e/2PACX-1vQ0a-ZCTEiXSscfr_bdLNjhrnRhhB35KDXq66tUZVB19cmyp5YKrqsZd3_VDM4ZPw05H9cdgavR4WJp/pub?start=true&loop=false&delayms=5000) to see the other validation results.
+  - Click [here](https://docs.google.com/presentation/d/e/2PACX-1vQ0a-ZCTEiXSscfr_bdLNjhrnRhhB35KDXq66tUZVB19cmyp5YKrqsZd3_VDM4ZPw05H9cdgavR4WJp/pub?start=true&loop=false&delayms=5000) to see the other validation results. (Google Slides)
 
   ![HTML Validation for the Home Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674722865/Website%20Images/README%20-%20Images/home-validation_uucrpw.png)
   ![CSS Validation for the CSS file](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674722870/Website%20Images/README%20-%20Images/css-validation_dy8ukh.png)
 
-
-)
-
-  - All tests came back with no errors.
 
   # LightHouse Testing
   - Below are the results for the Home Page Lighthouse tests for mobile and desktop.
@@ -260,7 +258,7 @@ I designed the website as a mobile view first. I then added breakpoints for diff
 
   - **404 Error Page**
     - I was having issues with my 404 page.
-    - I had saved the page as 404-error-page.html. This was causing issues until I renamed the page 404.html.
+    - I had saved the page as 404-error-page.html. This was causing issues until I renamed the page 404.html.  I used [this](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site) page to help me.
     - The 404 page would not load when I would host it locally.
     - I fixed this issue by using the preview a page feature on Gitpod. This allowed me to fix my CSS code while viewing it, otherwise I would have to "Git push" every edit.
 
@@ -271,6 +269,10 @@ I designed the website as a mobile view first. I then added breakpoints for diff
      - I changed it to "Gallery".
      - I used ".jpg" images in the begining.
      - I noticed this was affecting my lighthouse performance report. I changed the images to ".webp".
+     - I was getting a poor performance score on my lighthouse restults.
+     - I improved the score by compressing the webp images.
+     - I was getting an error message on lighthouse for my footer because the icons did not have a name.
+     - I added a `<span class="sr-only">` this solved the issue.
 
 
 
@@ -290,7 +292,7 @@ I designed the website as a mobile view first. I then added breakpoints for diff
   - I created a folder and uploaded my images.
   - I copied the URL and placed it into my code.
 
-    ![Cloudinary](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674604328/Website%20Images/README%20-%20Images/cloudinary-readme_vm3rqu.png)
+    ![Cloudinary](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674724345/Website%20Images/README%20-%20Images/cloudinary-readme_tpeq4l.png)
 
 
     ## **404 Error  Page**
