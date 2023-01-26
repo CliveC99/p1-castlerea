@@ -26,6 +26,7 @@ I designed the website as a mobile view first. I then added breakpoints for diff
   - <p><a href="#manual-testing">Manual Testing</a></p>
   - <p><a href="#validation">Validation</a></p>
   - <p><a href="#lighthouse-testing">LightHouse Testing</a></p>
+   - <p><a href="#git-commits">Git Commits</a></p>
   - <p><a href="#deployment">Deployment</a></p>
   - <p><a href="#bugs-and-fixes">Bugs and Fixes</a></p>
   - <p><a href="#added-items">Added Items</a></p>
@@ -66,6 +67,7 @@ I designed the website as a mobile view first. I then added breakpoints for diff
 
 # WireFrames 
 - Shown below is the Home Page wireframes.
+- I used Balsamiq to create the wireframes.
 - Click [here](https://docs.google.com/presentation/d/e/2PACX-1vSVxI0jerSNyUCxenrkuWfhQYUkgfg34u5XC3C3SKADDZWYvAsEUcOi9NShuul8R8KONLFhAIfQGEbm/pub?start=true&loop=false&delayms=5000) to see the other pages wireframes. (Google Slides) 
 
 <p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674601175/Website%20Images/README%20-%20Images/index-mobile-view_csrusa.png" alt="Home Page Mobile View"></p>
@@ -189,15 +191,27 @@ I designed the website as a mobile view first. I then added breakpoints for diff
 
    # Validation
   - I used [W3S HTML Checker](https://validator.w3.org/) for testing my HTML code.
-
   - I used [W3S CSS Checker](https://jigsaw.w3.org/css-validator/) for testing my CSS code.
+
+  - At an earlier stage I has some warnings in my HTML code so I changed my code and now there is no warnings.
+  - Below are the results from the W3S HTML Checker and W3S CSS Checker for the Home Page and CSS file.
+  - Click [here](https://docs.google.com/presentation/d/e/2PACX-1vQ0a-ZCTEiXSscfr_bdLNjhrnRhhB35KDXq66tUZVB19cmyp5YKrqsZd3_VDM4ZPw05H9cdgavR4WJp/pub?start=true&loop=false&delayms=5000) to see the other validation results.
+
+  ![HTML Validation for the Home Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674722865/Website%20Images/README%20-%20Images/home-validation_uucrpw.png)
+  ![CSS Validation for the CSS file](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674722870/Website%20Images/README%20-%20Images/css-validation_dy8ukh.png)
+
 
 )
 
   - All tests came back with no errors.
 
   # LightHouse Testing
-  - Add images and explain
+  - Below are the results for the Home Page Lighthouse tests for mobile and desktop.
+  - Click [here](https://docs.google.com/presentation/d/e/2PACX-1vSaWIxnsq-hRdPiCkHn_CBJsxvDkxSMyg8C4L0BsJN9sArhqBWHoooRTduXekymy-IGV_mqu_umyJ1C/pub?start=true&loop=false&delayms=5000) to see the other pages Lighthouse results. (Google Slides) 
+
+  ![Mobile Lighthouse Results](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674721771/Website%20Images/README%20-%20Images/lighthouse-home-mobile_zumgff.png)
+  ![Desktop Lighthouse Results](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674721767/Website%20Images/README%20-%20Images/lighthouse-home-desktop_cf1lrq.png)
+
 
   # Deployment
   1. Open up [GitHub.](https://github.com/)
