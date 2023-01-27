@@ -30,8 +30,8 @@ Check out Castlerea [here.](https://clivec99.github.io/p1-castlerea/index.html)
   - <p><a href="#manual-testing">Manual Testing</a></p>
   - <p><a href="#validation">Validation</a></p>
   - <p><a href="#lighthouse-testing">LightHouse Testing</a></p>
-   - <p><a href="#git-commits">Git Commits</a></p>
   - <p><a href="#deployment">Deployment</a></p>
+  - <p><a href="#git-commits">Git Commits</a></p>
   - <p><a href="#bugs-and-fixes">Bugs and Fixes</a></p>
   - <p><a href="#added-items">Added Items</a></p>
   - <p><a href="#tools-used">Tools Used</a></p>
@@ -140,8 +140,8 @@ Check out Castlerea [here.](https://clivec99.github.io/p1-castlerea/index.html)
   - When viewing the information section on mobile, the text is above the image.
   - When viewing the information section on a tablet, laptop or desktop, the text is to the left and the image is on the right.
   - The Walking Trail and Swimming Pool images were provided by Councillor Paschal Fitzmaurice.
-  - The Golf Course image was taken from [here.](https://upload.wikimedia.org/wikipedia/commons/5/51/Castlerea_-_Clonalis_House_-_20190823040950.jpg)
-  - The Clonalis House image was taken from [here.](https://weddingpages.ie/venues/wp-content/uploads/2017/05/clonalis-house-wedding-venue-roscommon.jpg)
+  - The Golf Course image was taken from [here.](https://d2hz75cbudexsj.cloudfront.net/Castlerea/content/8b3d7077-49cd-4c5e-846f-0c6f14a5f821.jpg)
+  - The Clonalis House image was taken from [here.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FClonalis_House&psig=AOvVaw2t9Sua7xxcXALwfi6oZMNS&ust=1674928697495000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiv1uWp6PwCFQAAAAAdAAAAABAN)
 
 <p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674605420/Website%20Images/README%20-%20Images/information-mobile_yk4i5i.png" alt="Information Section Mobile View"></p>
 
@@ -330,8 +330,8 @@ Check out Castlerea [here.](https://clivec99.github.io/p1-castlerea/index.html)
   ## **Media**
   - The home page hero-image was taken from [Here.](https://assets-eu-01.kc-usercontent.com/aa24ba70-9a12-01ae-259b-7ef588a0b2ef/a80108c7-1a1a-4fe2-8f8b-d4f0e9699535/header-castlerea-county-roscommon.jpg?w=2304&q=66&h=672&fit=crop&fm=jpg)
    - The footer image was taken from [Here.](https://www.pexels.com/photo/from-above-shot-of-dried-leaves-and-yellow-fruit-3018825/)
-  - The Castlerea Golf Club image was taken from [Here.](https://upload.wikimedia.org/wikipedia/commons/5/51/Castlerea_-_Clonalis_House_-_20190823040950.jpg) 
-  - The Clonalis House image was taken from [here.](https://weddingpages.ie/venues/wp-content/uploads/2017/05/clonalis-house-wedding-venue-roscommon.jpg)
+  - The Castlerea Golf Club image was taken from [Here.](https://d2hz75cbudexsj.cloudfront.net/Castlerea/content/8b3d7077-49cd-4c5e-846f-0c6f14a5f821.jpg) 
+  - The Clonalis House image was taken from [here.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FClonalis_House&psig=AOvVaw2t9Sua7xxcXALwfi6oZMNS&ust=1674928697495000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiv1uWp6PwCFQAAAAAdAAAAABAN)
   - The Form background image was taken from [here.](https://www.discoversuckvalleyway.ie/admin/uploads/walks/resized_castlerea-trails-suck-valley-way.jpg)
   - The Form Submission image was taken from [here.](https://www.buildingsofireland.ie/building-images/niah/images/survey_specific/800/31814014_1.jpg)
   - The 404 Error Page image was taken from [here.](https://upload.wikimedia.org/wikipedia/commons/8/8c/087%2C_Castlrea.jpg)
