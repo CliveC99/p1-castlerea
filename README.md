@@ -11,6 +11,8 @@ I designed the website as a mobile view first. I then added breakpoints for diff
 
 Check out Castlerea [here.](https://clivec99.github.io/p1-castlerea/index.html)
 
+### **Disclaimer if you would like to open any links in a new tab use `Ctrl` and click the link.**
+
 ![Home Page](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674603103/Website%20Images/README%20-%20Images/index-responsive_w78f50.png)
 
 # Table of Contents   
@@ -276,6 +278,8 @@ Check out Castlerea [here.](https://clivec99.github.io/p1-castlerea/index.html)
      - I added a `<span class="sr-only">` this solved the issue.
      - I linked some of my images to the CSS file which means I did not have an alt for the image.
      - To fix this I first added `title="description"` but changed this to `role="img" aria-label="description"`
+     - I was getting an error for my footer in the HTML Validator.
+     - I changed the `role="img" aria-label="description"` into a `div` and this removed the error.
 
 
 
