@@ -274,6 +274,8 @@ Check out Castlerea [here.](https://clivec99.github.io/p1-castlerea/index.html)
      - I improved the score by compressing the webp images.
      - I was getting an error message on lighthouse for my footer because the icons did not have a name.
      - I added a `<span class="sr-only">` this solved the issue.
+     - I linked some of my images to the CSS file which means I did not have an alt for the image.
+     - To fix this I first added `title="description"` but changed this to `role="img" aria-label="description"`
 
 
 
