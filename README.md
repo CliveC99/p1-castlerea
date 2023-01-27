@@ -34,6 +34,7 @@ Check out Castlerea [here.](https://clivec99.github.io/p1-castlerea/index.html)
   - <p><a href="#git-commits">Git Commits</a></p>
   - <p><a href="#bugs-and-fixes">Bugs and Fixes</a></p>
   - <p><a href="#added-items">Added Items</a></p>
+  - <p><a href="#features-to-be-added">Features To Be Added</a></p>
   - <p><a href="#tools-used">Tools Used</a></p>
   - <p><a href="#credits">Credits</a></p>
  
@@ -101,7 +102,7 @@ Check out Castlerea [here.](https://clivec99.github.io/p1-castlerea/index.html)
   - When viewing the page on a tablet, a laptop, or a desktop the Logo is placed in the center of the top of the page. The 3 pages are placed under the logo in a row.
   - The logo is the name of the town I based the project on.
   - A line will be shown under the page to indicate what page you are on.
-  - The nav states what page it will take you to. The page will open in a new tab.
+  - The nav states what page it will take the user to. The page will open in a new tab.
   - When hovered over each, of the page options will change colour. The background colour turns to yellow and the text turns to red.
 
 
@@ -116,6 +117,7 @@ Check out Castlerea [here.](https://clivec99.github.io/p1-castlerea/index.html)
   - Each icon links directly to the site in a new tab.
   - The options are Facebook, Instagram, Twitter and Youtube.
   - The footer is the same across all the pages.
+  - This allows the user to access the social media accounts.
   - When hovered, the background colour of each of the social icons will turn to red.
   - I got the image from [here.](https://www.pexels.com/photo/from-above-shot-of-dried-leaves-and-yellow-fruit-3018825/)
 
@@ -127,6 +129,7 @@ Check out Castlerea [here.](https://clivec99.github.io/p1-castlerea/index.html)
   - The header includes a hero image with text inside it. 
   - The image is an area in Castlerea and the text states the name of the town and what county it is in.
   - The Hero image is animated, which I got inspiration from the Love Running Project.
+  - When the user first reaches the pages the image gives an idea of what Castlerea is like and where it is in Ireland.
   - I got the image from [here.](https://assets-eu-01.kc-usercontent.com/aa24ba70-9a12-01ae-259b-7ef588a0b2ef/a80108c7-1a1a-4fe2-8f8b-d4f0e9699535/header-castlerea-county-roscommon.jpg?w=2304&q=66&h=672&fit=crop&fm=jpg)
 
 ![Hero Image](https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674603612/Website%20Images/README%20-%20Images/hero-image-readme_nmhkyw.png)
@@ -153,6 +156,7 @@ Check out Castlerea [here.](https://clivec99.github.io/p1-castlerea/index.html)
    - When viewing the gallery page on mobile, the images are stacked above each other.
    - When viewing on a tablet, the images are placed 3 wide in a column.
    - When viewing on a laptop or desktop, the images are placed 4 wide in a column.
+   - The gallery page allows the user to see some of local images.
    - All the images on the gallery page were provided by Paschal Fitzmaurice a local councillor in my area. I was given permission to use these images for my website. 
 
 <p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674603825/Website%20Images/README%20-%20Images/gallery-mobile_fvb5ur.png" alt="Gallery Page Mobile View"></p>
@@ -239,47 +243,47 @@ Check out Castlerea [here.](https://clivec99.github.io/p1-castlerea/index.html)
 
 
   # Bugs and Fixes
- - **Home Page**
-   - I was having issues with the position of the text on the hero image.
+## **Home Page**
+- I was having issues with the position of the text on the hero image.
    - I solved this by adding different breakpoints.
  
    
 
-  - **Gallery Page** 
-    - I was having issues with the images on the gallery page having space at the bottom of the page.
-    - I solved this by changing the height of some of the images at different breakpoints.
+## **Gallery Page** 
+- I was having issues with the images on the gallery page having space at the bottom of the page.
+   - I solved this by changing the height of some of the images at different breakpoints.
 
-  - **Contact Form**
-    - There was an issue where the "Age Range" was not required for submitting the form.
-    - I used `<p>` in the beginning but, I switched it to `<label>` this solved the issue.
+## **Contact Form**
+- There was an issue where the "Age Range" was not required for submitting the form.
+   - I used `<p>` in the beginning but, I switched it to `<label>` this solved the issue.
    
-    - There was an issue with the position of the box for the form on different viewpoints.
-    - I solved this by adding different breakpoints, so the box would be in the correct position.
+- There was an issue with the position of the box for the form on different viewpoints.
+   - I solved this by adding different breakpoints, so the box would be in the correct position.
 
-    - The submit button was not sending the user to the page intended. The user was getting a "501 Error Code".
-    - In the beginning  I used `method="POST"` When I switched it to `method="GET"` the issue was solved.
+- The submit button was not sending the user to the page intended. The user was getting a "501 Error Code".
+   - In the beginning  I used `method="POST"` When I switched it to `method="GET"` the issue was solved.
 
-  - **404 Error Page**
-    - I was having issues with my 404 page.
-    - I had saved the page as 404-error-page.html. This was causing issues until I renamed the page 404.html.  I used [this](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site) page to help me.
-    - The 404 page would not load when I would host it locally.
-    - I fixed this issue by using the preview a page feature on Gitpod. This allowed me to fix my CSS code while viewing it, otherwise I would have to "Git push" every edit.
+## **404 Error Page**
+- I was having issues with my 404 page.
+   - I had saved the page as 404-error-page.html. This was causing issues until I renamed the page 404.html.  I used [this](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site) page to help me.
+- The 404 page would not load when I would host it locally.
+   - I fixed this issue by using the preview a page feature on Gitpod. This allowed me to fix my CSS code while viewing it, otherwise I would have to "Git push" every edit.
 
-  - **General Bugs/Issues** 
-     - The FavIcon was being displayed on my website when I would host it through Gitpod, but not through Github pages.
-     - The reason for this was: I was missing the "`.`" before the "`/`" when I was linking the icons. The FavIcons were not placed in the assets folder. Once I changed this, It was working.
-     - I used the American spelling "Gallary".
-     - I changed it to "Gallery".
-     - I used ".jpg" images in the begining.
-     - I noticed this was affecting my lighthouse performance report. I changed the images to ".webp".
-     - I was getting a poor performance score on my lighthouse restults.
-     - I improved the score by compressing the webp images.
-     - I was getting an error message on lighthouse for my footer because the icons did not have a name.
-     - I added a `<span class="sr-only">` this solved the issue.
-     - I linked some of my images to the CSS file which means I did not have an alt for the image.
-     - To fix this I first added `title="description"` but changed this to `role="img" aria-label="description"`
-     - I was getting an error for my footer in the HTML Validator.
-     - I changed the `role="img" aria-label="description"` into a `div` and this removed the error.
+## **General Bugs/Issues** 
+- The FavIcon was being displayed on my website when I would host it through Gitpod, but not through Github pages.
+   - The reason for this was: I was missing the "`.`" before the "`/`" when I was linking the icons. The FavIcons were not placed in the assets folder. Once I changed this, It was working.
+- I used the American spelling "Gallary".
+   - I changed it to "Gallery".
+- I used ".jpg" images in the begining.
+   - I noticed this was affecting my lighthouse performance report. I changed the images to ".webp".
+- I was getting a poor performance score on my lighthouse restults.
+   - I improved the score by compressing the webp images.
+- I was getting an error message on lighthouse for my footer because the icons did not have a name.
+   - I added a `<span class="sr-only">` this solved the issue.
+- I linked some of my images to the CSS file which means I did not have an alt for the image.
+   - To fix this I first added `title="description"` but changed this to `role="img" aria-label="description"`
+- I was getting an error for my footer in the HTML Validator.
+   - I changed the `role="img" aria-label="description"` into a `div` and this removed the error.
 
 
 
@@ -316,6 +320,10 @@ Check out Castlerea [here.](https://clivec99.github.io/p1-castlerea/index.html)
 
 <p align="center"><img src="https://res.cloudinary.com/dp9lxtk3y/image/upload/v1674604469/Website%20Images/README%20-%20Images/404-hover_uy34zv.png" alt="404 Error Page Hovering"></p>
 
+# **Features To Be Added**
+- "Hamburger" menu with dropdowns to futher items on the page. Example - Home - Information Section.
+- The form is sent and the information can be received and replied to.
+
 # **Tools Used**
   - I used [Am I Responsive?](https://ui.dev/amiresponsive) to check was the website responsive on devices.
   - I used [Balsamiq](https://balsamiq.com/) for creating the wireframes.
@@ -337,5 +345,6 @@ Check out Castlerea [here.](https://clivec99.github.io/p1-castlerea/index.html)
   - The 404 Error Page image was taken from [here.](https://upload.wikimedia.org/wikipedia/commons/8/8c/087%2C_Castlrea.jpg)
 
   ## **Other**
+  - The table of contents idea was taken from [here.](https://stackoverflow.com/questions/18244417/how-do-i-create-some-kind-of-table-of-content-in-github-wiki) I worked around it to make it work for mine.
   - This project would not be possible without the help of my mentor.
   - Councillor Paschal Fitzmaurice provided me with images for the Gallery page, The Swimming Pool and the Walking Trail on the home page.
